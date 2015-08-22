@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+        <title>password submissions &ndash; vtcsec wargame</title>
+
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Jura|Inconsolata" />
+        <link rel='stylesheet' type='text/css' href="../static/css/global.css" />
+    </head>
+    <body>
+        <div id='wrapper'>
+            <header>
+                <h1><a href="../scores">vtcsec wargame</a></h1>
+            </header>
+
+            <div id='content'>
+                
+                    
+                
+
+                
+<h2>Password Submissions for fed66c99cd8d0dc23cfff61bc5144f5e1fb5ff12</h2>
+
+<section>
+    <table class='scores breakdown'>
+        <tr>
+            <th>Date and Time</th>
+            <th>Handle</th>
+        </tr>
+    
+        <tr>
+            <td>2012-11-18 21:41:12 </td>
+            <td><a href="../breakdown/2">Matt Hazinski</a></td>
+        </tr>
+    
+        <tr>
+            <td>2012-11-20 02:30:02 </td>
+            <td><a href="../breakdown/20">flax</a></td>
+        </tr>
+    
+        <tr>
+            <td>2012-11-20 11:21:36 </td>
+            <td><a href="../breakdown/3">ubervert</a></td>
+        </tr>
+    
+        <tr>
+            <td>2012-11-25 01:52:52 </td>
+            <td><a href="../breakdown/21">HashSlingingHackers</a></td>
+        </tr>
+    
+        <tr>
+            <td>2012-12-20 16:54:34 </td>
+            <td><a href="../breakdown/30">solarwind</a></td>
+        </tr>
+    
+        <tr>
+            <td>2013-01-06 07:44:56 </td>
+            <td><a href="../breakdown/33">jtest</a></td>
+        </tr>
+    
+        <tr>
+            <td>2013-08-30 22:44:04 </td>
+            <td><a href="../breakdown/45">TheN3rd</a></td>
+        </tr>
+    
+        <tr>
+            <td>2013-09-27 22:00:57 </td>
+            <td><a href="../breakdown/44">Komarov</a></td>
+        </tr>
+    
+        <tr>
+            <td>2014-06-07 19:45:37 </td>
+            <td><a href="../breakdown/51">dfc</a></td>
+        </tr>
+    
+        <tr>
+            <td>2014-07-22 08:23:27 </td>
+            <td><a href="../breakdown/52">emrys</a></td>
+        </tr>
+    
+        <tr>
+            <td>2014-09-12 00:20:23 </td>
+            <td><a href="../breakdown/56">System33</a></td>
+        </tr>
+    
+    </table>
+</section>
+
+            </div>
+
+            <div id='flash' class='message-box'></div>
+        </div>
+
+        
+        <script type="text/javascript" src="../static/js/jquery.js"></script>
+        
+    </body>
+</html>

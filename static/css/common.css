@@ -1,0 +1,60 @@
+/* Sponsors list {{{ */
+ul.sponsors {
+    margin: 0 0 0 12px;
+    padding: 0;
+    list-style-type: none;
+}
+
+ul.sponsors li {
+    display: inline;
+    /*margin-right: 24px;*/
+}
+
+ul.sponsors li + li {
+    margin-left: 24px;
+}
+
+ul.sponsors li img {
+    width: 100px;
+    padding: 6px;
+    background: #fff;
+    border-radius: 6px;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.75);
+}
+/* }}} */
+
+dl.officers-list dt {
+    font-weight: bold;
+}
+
+table.agenda td {
+    vertical-align: top;
+}
+
+/* Multicolumn layout {{{ */
+/* Only use for screens >= 980px */
+@media screen and (min-width: 980px) {
+    .multicol {
+        -webkit-columns: 2;
+           -moz-columns: 2;
+                columns: 2;
+    }
+
+    .multicol section {
+        display: inline-block;
+        width: 100%;
+    }
+}
+/* }}} */
+
+/* Responsive design {{{ */
+@media (max-width: 767px) {
+    .hidden-phone {
+        display: none;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 979px) {
+}
+/* }}} */
+

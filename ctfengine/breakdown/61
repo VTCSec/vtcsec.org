@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+        <title>score breakdown &ndash; vtcsec wargame</title>
+
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Jura|Inconsolata" />
+        <link rel='stylesheet' type='text/css' href="../static/css/global.css" />
+    </head>
+    <body>
+        <div id='wrapper'>
+            <header>
+                <h1><a href="../scores">vtcsec wargame</a></h1>
+            </header>
+
+            <div id='content'>
+                
+                    
+                
+
+                
+<h2>Score Breakdown for viridian</h2>
+
+<section>
+    <h3>Flags</h3>
+
+    <table class='scores breakdown'>
+        <tr>
+            <th>Date and Time</th>
+            <th>Name</th>
+            <th>Points</th>
+        </tr>
+    
+    </table>
+    <div class='total_points'>
+        Score from flags: 0
+    </div>
+</section>
+
+<section>
+    <h3>Passwords</h3>
+
+    <table class='scores breakdown'>
+        <tr>
+            <th>Date and Time</th>
+            <th class='hidden-phone'>Algorithm</th>
+            <th class='truncate'>Hash</th>
+            <th>Points</th>
+        </tr>
+    
+        <tr>
+            <td>2015-03-26 19:58:29 </td>
+            <td class='hidden-phone'>raw-sha1</td>
+            <td class='truncate'><a href="../password/817">019db0bfd5f85951cb46e4452e9642858c004155</a></td>
+            <td>1</td>
+        </tr>
+    
+        <tr>
+            <td>2015-03-26 20:00:07 </td>
+            <td class='hidden-phone'>raw-sha1</td>
+            <td class='truncate'><a href="../password/816">011c945f30ce2cbafc452f39840f025693339c42</a></td>
+            <td>1</td>
+        </tr>
+    
+    </table>
+    <div class='total_points'>
+        Score from passwords: 2
+    </div>
+</section>
+
+            </div>
+
+            <div id='flash' class='message-box'></div>
+        </div>
+
+        
+        <script type="text/javascript" src="../static/js/jquery.js"></script>
+        
+    </body>
+</html>

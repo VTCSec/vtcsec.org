@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+        <title>flag submissions &ndash; vtcsec wargame</title>
+
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Jura|Inconsolata" />
+        <link rel='stylesheet' type='text/css' href="../static/css/global.css" />
+    </head>
+    <body>
+        <div id='wrapper'>
+            <header>
+                <h1><a href="../scores">vtcsec wargame</a></h1>
+            </header>
+
+            <div id='content'>
+                
+                    
+                
+
+                
+<h2>Flag Submissions for haripura</h2>
+
+<section>
+    <table class='scores breakdown'>
+        <tr>
+            <th>Date and Time</th>
+            <th>Handle</th>
+        </tr>
+    
+        <tr>
+            <td>2012-11-19 21:33:58 </td>
+            <td><a href="../breakdown/20">flax</a></td>
+        </tr>
+    
+        <tr>
+            <td>2012-12-09 00:36:16 </td>
+            <td><a href="../breakdown/2">Matt Hazinski</a></td>
+        </tr>
+    
+        <tr>
+            <td>2012-12-11 21:14:56 </td>
+            <td><a href="../breakdown/6">vorpalblade</a></td>
+        </tr>
+    
+        <tr>
+            <td>2012-12-12 00:18:45 </td>
+            <td><a href="../breakdown/26">Timelord</a></td>
+        </tr>
+    
+        <tr>
+            <td>2012-12-20 15:22:29 </td>
+            <td><a href="../breakdown/30">solarwind</a></td>
+        </tr>
+    
+        <tr>
+            <td>2012-12-21 19:26:41 </td>
+            <td><a href="../breakdown/16">sczi</a></td>
+        </tr>
+    
+        <tr>
+            <td>2013-01-01 07:03:56 </td>
+            <td><a href="../breakdown/31">tunelko</a></td>
+        </tr>
+    
+        <tr>
+            <td>2013-01-06 07:25:41 </td>
+            <td><a href="../breakdown/33">jtest</a></td>
+        </tr>
+    
+        <tr>
+            <td>2013-01-12 09:15:29 </td>
+            <td><a href="../breakdown/32">alexua</a></td>
+        </tr>
+    
+        <tr>
+            <td>2014-05-07 21:43:51 </td>
+            <td><a href="../breakdown/46">WHATS THE WIFI PASSWORD?</a></td>
+        </tr>
+    
+        <tr>
+            <td>2014-05-10 21:01:18 </td>
+            <td><a href="../breakdown/48">Terran</a></td>
+        </tr>
+    
+        <tr>
+            <td>2014-07-16 08:55:50 </td>
+            <td><a href="../breakdown/52">emrys</a></td>
+        </tr>
+    
+        <tr>
+            <td>2014-09-08 21:36:34 </td>
+            <td><a href="../breakdown/55">anidev</a></td>
+        </tr>
+    
+        <tr>
+            <td>2014-09-11 12:31:11 </td>
+            <td><a href="../breakdown/56">System33</a></td>
+        </tr>
+    
+    </table>
+</section>
+
+            </div>
+
+            <div id='flash' class='message-box'></div>
+        </div>
+
+        
+        <script type="text/javascript" src="../static/js/jquery.js"></script>
+        
+    </body>
+</html>

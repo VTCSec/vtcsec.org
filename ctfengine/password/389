@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+        <title>password submissions &ndash; vtcsec wargame</title>
+
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Jura|Inconsolata" />
+        <link rel='stylesheet' type='text/css' href="../static/css/global.css" />
+    </head>
+    <body>
+        <div id='wrapper'>
+            <header>
+                <h1><a href="../scores">vtcsec wargame</a></h1>
+            </header>
+
+            <div id='content'>
+                
+                    
+                
+
+                
+<h2>Password Submissions for e7acfe4a6d381ae85988b460dc17f830</h2>
+
+<section>
+    <table class='scores breakdown'>
+        <tr>
+            <th>Date and Time</th>
+            <th>Handle</th>
+        </tr>
+    
+        <tr>
+            <td>2012-11-30 03:27:01 </td>
+            <td><a href="../breakdown/2">Matt Hazinski</a></td>
+        </tr>
+    
+        <tr>
+            <td>2013-04-04 00:06:40 </td>
+            <td><a href="../breakdown/21">HashSlingingHackers</a></td>
+        </tr>
+    
+        <tr>
+            <td>2013-05-27 18:05:19 </td>
+            <td><a href="../breakdown/44">Komarov</a></td>
+        </tr>
+    
+        <tr>
+            <td>2014-09-10 20:36:54 </td>
+            <td><a href="../breakdown/56">System33</a></td>
+        </tr>
+    
+        <tr>
+            <td>2015-02-25 15:10:13 </td>
+            <td><a href="../breakdown/57">thrax</a></td>
+        </tr>
+    
+    </table>
+</section>
+
+            </div>
+
+            <div id='flash' class='message-box'></div>
+        </div>
+
+        
+        <script type="text/javascript" src="../static/js/jquery.js"></script>
+        
+    </body>
+</html>

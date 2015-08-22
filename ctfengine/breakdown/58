@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+        <title>score breakdown &ndash; vtcsec wargame</title>
+
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Jura|Inconsolata" />
+        <link rel='stylesheet' type='text/css' href="../static/css/global.css" />
+    </head>
+    <body>
+        <div id='wrapper'>
+            <header>
+                <h1><a href="../scores">vtcsec wargame</a></h1>
+            </header>
+
+            <div id='content'>
+                
+                    
+                
+
+                
+<h2>Score Breakdown for chronovox</h2>
+
+<section>
+    <h3>Flags</h3>
+
+    <table class='scores breakdown'>
+        <tr>
+            <th>Date and Time</th>
+            <th>Name</th>
+            <th>Points</th>
+        </tr>
+    
+    </table>
+    <div class='total_points'>
+        Score from flags: 0
+    </div>
+</section>
+
+<section>
+    <h3>Passwords</h3>
+
+    <table class='scores breakdown'>
+        <tr>
+            <th>Date and Time</th>
+            <th class='hidden-phone'>Algorithm</th>
+            <th class='truncate'>Hash</th>
+            <th>Points</th>
+        </tr>
+    
+        <tr>
+            <td>2015-02-26 13:51:21 </td>
+            <td class='hidden-phone'>raw-sha1</td>
+            <td class='truncate'><a href="../password/816">011c945f30ce2cbafc452f39840f025693339c42</a></td>
+            <td>1</td>
+        </tr>
+    
+        <tr>
+            <td>2015-02-26 13:51:21 </td>
+            <td class='hidden-phone'>raw-sha1</td>
+            <td class='truncate'><a href="../password/761">1e7300f626b8c1b79b29bfd4dbf47f37950d9b42</a></td>
+            <td>1</td>
+        </tr>
+    
+        <tr>
+            <td>2015-02-26 13:51:21 </td>
+            <td class='hidden-phone'>raw-sha1</td>
+            <td class='truncate'><a href="../password/746">8c72a2e153d4df37925b3b6094e33cc041dcd131</a></td>
+            <td>1</td>
+        </tr>
+    
+        <tr>
+            <td>2015-02-26 13:51:21 </td>
+            <td class='hidden-phone'>raw-sha1</td>
+            <td class='truncate'><a href="../password/849">537e2a594a6f6e9d22c117510abe40ca3dd3a3a6</a></td>
+            <td>2</td>
+        </tr>
+    
+        <tr>
+            <td>2015-02-26 13:51:21 </td>
+            <td class='hidden-phone'>raw-sha1</td>
+            <td class='truncate'><a href="../password/844">d93638e9c66df23fdc1c85b55ca62f96714e24eb</a></td>
+            <td>2</td>
+        </tr>
+    
+        <tr>
+            <td>2015-02-26 13:51:21 </td>
+            <td class='hidden-phone'>raw-sha1</td>
+            <td class='truncate'><a href="../password/840">32c476a58c60efb6126a70ce6f70c33001140583</a></td>
+            <td>2</td>
+        </tr>
+    
+        <tr>
+            <td>2015-02-26 13:51:21 </td>
+            <td class='hidden-phone'>raw-sha1</td>
+            <td class='truncate'><a href="../password/821">79b6a6894971916b21b67bc28f6d66e61cf96a91</a></td>
+            <td>1</td>
+        </tr>
+    
+        <tr>
+            <td>2015-02-26 13:51:21 </td>
+            <td class='hidden-phone'>raw-sha1</td>
+            <td class='truncate'><a href="../password/814">aaf4c61ddcc5e8a2dabede0f3b482cd9aea9434d</a></td>
+            <td>1</td>
+        </tr>
+    
+        <tr>
+            <td>2015-02-26 13:51:21 </td>
+            <td class='hidden-phone'>raw-sha1</td>
+            <td class='truncate'><a href="../password/847">a69d23351dd3595380a661efe5cb302f26152dfc</a></td>
+            <td>2</td>
+        </tr>
+    
+        <tr>
+            <td>2015-02-26 13:51:22 </td>
+            <td class='hidden-phone'>raw-sha1</td>
+            <td class='truncate'><a href="../password/815">9f2feb0f1ef425b292f2f94bc8482494df430413</a></td>
+            <td>1</td>
+        </tr>
+    
+        <tr>
+            <td>2015-02-26 13:51:22 </td>
+            <td class='hidden-phone'>raw-sha1</td>
+            <td class='truncate'><a href="../password/817">019db0bfd5f85951cb46e4452e9642858c004155</a></td>
+            <td>1</td>
+        </tr>
+    
+        <tr>
+            <td>2015-02-26 13:51:22 </td>
+            <td class='hidden-phone'>raw-sha1</td>
+            <td class='truncate'><a href="../password/748">335f4c1474988e7ba97a631ccfdf985bfeffd432</a></td>
+            <td>1</td>
+        </tr>
+    
+        <tr>
+            <td>2015-02-26 13:51:22 </td>
+            <td class='hidden-phone'>raw-sha1</td>
+            <td class='truncate'><a href="../password/839">a267f7dba707256b0b664dee86ab9ae8b4941218</a></td>
+            <td>2</td>
+        </tr>
+    
+        <tr>
+            <td>2015-02-26 13:51:22 </td>
+            <td class='hidden-phone'>raw-sha1</td>
+            <td class='truncate'><a href="../password/765">c8b82532151f166cc872218039d3c0b33de0db19</a></td>
+            <td>1</td>
+        </tr>
+    
+        <tr>
+            <td>2015-02-26 13:51:22 </td>
+            <td class='hidden-phone'>raw-sha1</td>
+            <td class='truncate'><a href="../password/838">ae6cf5c8329c015351352821950da3f6bd08b094</a></td>
+            <td>2</td>
+        </tr>
+    
+        <tr>
+            <td>2015-02-26 13:51:22 </td>
+            <td class='hidden-phone'>raw-sha1</td>
+            <td class='truncate'><a href="../password/822">9158feecd26de47594c7ba207ec5f9b6493bf16d</a></td>
+            <td>1</td>
+        </tr>
+    
+        <tr>
+            <td>2015-02-26 13:51:22 </td>
+            <td class='hidden-phone'>raw-sha1</td>
+            <td class='truncate'><a href="../password/819">b972c8ef2b9a433cffd255165f7163e7ce390700</a></td>
+            <td>1</td>
+        </tr>
+    
+        <tr>
+            <td>2015-02-26 13:51:22 </td>
+            <td class='hidden-phone'>raw-sha1</td>
+            <td class='truncate'><a href="../password/818">18c28604dd31094a8d69dae60f1bcd347f1afc5a</a></td>
+            <td>1</td>
+        </tr>
+    
+        <tr>
+            <td>2015-02-26 13:51:22 </td>
+            <td class='hidden-phone'>raw-sha1</td>
+            <td class='truncate'><a href="../password/820">a7b1b6863108baf85ec9a29898bf9965e818b065</a></td>
+            <td>1</td>
+        </tr>
+    
+        <tr>
+            <td>2015-02-26 13:51:22 </td>
+            <td class='hidden-phone'>raw-sha1</td>
+            <td class='truncate'><a href="../password/823">8ba4d1bc752e4b013d20a712305e70ce768505c0</a></td>
+            <td>1</td>
+        </tr>
+    
+        <tr>
+            <td>2015-02-26 13:51:22 </td>
+            <td class='hidden-phone'>raw-sha1</td>
+            <td class='truncate'><a href="../password/841">4296d5b7598d3f764377a91af2f9c5ec8674b2dc</a></td>
+            <td>2</td>
+        </tr>
+    
+        <tr>
+            <td>2015-02-26 13:51:22 </td>
+            <td class='hidden-phone'>raw-sha1</td>
+            <td class='truncate'><a href="../password/769">69e56976fc9bee70c1d2eaa85c0c8dea9f722a2f</a></td>
+            <td>1</td>
+        </tr>
+    
+        <tr>
+            <td>2015-02-26 13:51:22 </td>
+            <td class='hidden-phone'>raw-sha1</td>
+            <td class='truncate'><a href="../password/842">ac183b3ee1b6b6ef82aafdd48bb3e782c5a7fd87</a></td>
+            <td>2</td>
+        </tr>
+    
+        <tr>
+            <td>2015-02-26 13:51:22 </td>
+            <td class='hidden-phone'>raw-sha1</td>
+            <td class='truncate'><a href="../password/843">2d4b8fcab3bd71c7e0559e5d062d26f4ecd9b973</a></td>
+            <td>2</td>
+        </tr>
+    
+        <tr>
+            <td>2015-02-26 13:52:03 </td>
+            <td class='hidden-phone'>raw-md5</td>
+            <td class='truncate'><a href="../password/414">25f11703ab01db6964eabd0c6eca2f81</a></td>
+            <td>2</td>
+        </tr>
+    
+        <tr>
+            <td>2015-02-26 13:52:03 </td>
+            <td class='hidden-phone'>raw-md5</td>
+            <td class='truncate'><a href="../password/51">316928e0d260556eaccb6627f2ed657b</a></td>
+            <td>1</td>
+        </tr>
+    
+        <tr>
+            <td>2015-02-26 13:52:03 </td>
+            <td class='hidden-phone'>raw-md5</td>
+            <td class='truncate'><a href="../password/52">fea0f1f6fede90bd0a925b4194deac11</a></td>
+            <td>1</td>
+        </tr>
+    
+        <tr>
+            <td>2015-02-26 13:52:03 </td>
+            <td class='hidden-phone'>raw-md5</td>
+            <td class='truncate'><a href="../password/41">0d28cba0bd4f26e16d766000d27e49fa</a></td>
+            <td>1</td>
+        </tr>
+    
+        <tr>
+            <td>2015-02-26 13:52:03 </td>
+            <td class='hidden-phone'>raw-md5</td>
+            <td class='truncate'><a href="../password/43">a4757d7419ff3b48e92e90596f0e7548</a></td>
+            <td>1</td>
+        </tr>
+    
+        <tr>
+            <td>2015-02-26 13:52:03 </td>
+            <td class='hidden-phone'>raw-md5</td>
+            <td class='truncate'><a href="../password/54">d7bb20734ce5aa5d22c619eb9ba2e020</a></td>
+            <td>1</td>
+        </tr>
+    
+        <tr>
+            <td>2015-02-26 13:52:03 </td>
+            <td class='hidden-phone'>raw-md5</td>
+            <td class='truncate'><a href="../password/53">5f9901fc60b769b523d0dd8e79b3fe08</a></td>
+            <td>1</td>
+        </tr>
+    
+        <tr>
+            <td>2015-02-26 13:52:03 </td>
+            <td class='hidden-phone'>raw-md5</td>
+            <td class='truncate'><a href="../password/44">23a474dc1089d7886b591e441ccd0bae</a></td>
+            <td>1</td>
+        </tr>
+    
+        <tr>
+            <td>2015-02-26 13:52:03 </td>
+            <td class='hidden-phone'>raw-md5</td>
+            <td class='truncate'><a href="../password/45">b5c0b187fe309af0f4d35982fd961d7e</a></td>
+            <td>1</td>
+        </tr>
+    
+        <tr>
+            <td>2015-02-26 13:52:03 </td>
+            <td class='hidden-phone'>raw-md5</td>
+            <td class='truncate'><a href="../password/46">5f4dcc3b5aa765d61d8327deb882cf99</a></td>
+            <td>1</td>
+        </tr>
+    
+        <tr>
+            <td>2015-02-26 13:52:03 </td>
+            <td class='hidden-phone'>raw-md5</td>
+            <td class='truncate'><a href="../password/50">6050ce63e4bce6764cb34cac51fb44d1</a></td>
+            <td>1</td>
+        </tr>
+    
+        <tr>
+            <td>2015-02-26 13:52:03 </td>
+            <td class='hidden-phone'>raw-md5</td>
+            <td class='truncate'><a href="../password/42">48eaca468795d9eb17f4f6c90c6bab11</a></td>
+            <td>1</td>
+        </tr>
+    
+        <tr>
+            <td>2015-02-26 13:52:03 </td>
+            <td class='hidden-phone'>raw-md5</td>
+            <td class='truncate'><a href="../password/47">5ebe2294ecd0e0f08eab7690d2a6ee69</a></td>
+            <td>1</td>
+        </tr>
+    
+        <tr>
+            <td>2015-02-26 13:52:03 </td>
+            <td class='hidden-phone'>raw-md5</td>
+            <td class='truncate'><a href="../password/48">3c3662bcb661d6de679c636744c66b62</a></td>
+            <td>1</td>
+        </tr>
+    
+        <tr>
+            <td>2015-02-26 13:52:04 </td>
+            <td class='hidden-phone'>raw-md5</td>
+            <td class='truncate'><a href="../password/49">eb89f40da6a539dd1b1776e522459763</a></td>
+            <td>1</td>
+        </tr>
+    
+    </table>
+    <div class='total_points'>
+        Score from passwords: 49
+    </div>
+</section>
+
+            </div>
+
+            <div id='flash' class='message-box'></div>
+        </div>
+
+        
+        <script type="text/javascript" src="../static/js/jquery.js"></script>
+        
+    </body>
+</html>
