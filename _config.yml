@@ -7,5 +7,15 @@ description: >
 baseurl: ""
 url: "http://vtcsec.org"
 
+collections:
+  meetings:
+    output: true
+defaults:
+  - scope:
+      path: ""
+      type: meetings
+    values:
+      layout: meeting
+
 # Build settings
 markdown: kramdown
