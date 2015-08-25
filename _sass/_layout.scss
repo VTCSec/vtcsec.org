@@ -11,11 +11,11 @@
 }
 
 .site-title {
+    display: block;
     font-size: 26px;
-    line-height: 56px;
-    letter-spacing: -1px;
+    line-height: 26px;
+    margin-top: 20px;
     margin-bottom: 0;
-    float: left;
 
     &,
     &:visited {
@@ -23,8 +23,11 @@
     }
 }
 
+.site-subtitle {
+    font-size: 14px;
+}
+
 .site-nav {
-    float: right;
     line-height: 56px;
 
     .menu-icon {
