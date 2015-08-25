@@ -4,9 +4,9 @@ title: Sponsors
 permalink: /sponsors/
 ---
 
-### General Electric
+![GM Foundation](/images/sponsor-gm-foundation-scaled.jpg)
 
-### General Motors
+## General Electric
 
 TODO: Get preferred logos from companies.
 
