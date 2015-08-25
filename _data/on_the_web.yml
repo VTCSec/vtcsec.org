@@ -1,9 +1,9 @@
 default_user: vtcsec
 accounts:
-  - site: github
+  - site: GitHub
     url: https://github.com/vtcsec
-  - site: facebook
+  - site: Facebook
     url: https://facebook.com/vtcsec
-  - site: twitter
+  - site: Twitter
     url: https://twitter.com/vtcsec
     user: vtcybsec
