@@ -4,14 +4,14 @@
 
     <div class="footer-col-wrapper">
       <div class="footer-col  footer-col-1">
-	Contact
+        Contact
         <ul class="contact-list">
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
         </ul>
       </div>
 
       <div class="footer-col  footer-col-2">
-	On the Web
+        On the Web
         <ul class="account-list">
           <!-- icons from https://github.com/adamfairhead/webicons -->
           {% for account in site.data.on_the_web.accounts %}
@@ -26,17 +26,17 @@
       </div>
 
       <div class="footer-col  footer-col-3">
-	Sponsors
-	<ul class="sponsor-list">
-	  {% for sponsor in site.data.sponsors %}
-	  <li>
+        Sponsors
+        <ul class="sponsor-list">
+          {% for sponsor in site.data.sponsors %}
+          <li>
             <a href="{{ sponsor.url }}">
               <img class="logo" src="/images/sponsor-{{ sponsor.name }}-tiny.png" />
               <span class="company">{{ sponsor.name }}</span>
             </a>
           </li>
-	  {% endfor %}
-	</ul>
+          {% endfor %}
+        </ul>
       </div>
     </div>
 
