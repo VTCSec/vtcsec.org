@@ -4,7 +4,12 @@ title: Contact
 permalink: /contact/
 ---
 
-TODO: More words.
+Please use email as your first method of contact at the address below.
+
+## Current Officers
+  - President: Noah Luther
+  - Vice-President: Jean-Philippe Ouellet
+  - Treasurer: Marcus Wanner
 
 ## Email
 [officers@vtcsec.org](mailto:officers@vtcsec.org)

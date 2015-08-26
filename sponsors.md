@@ -14,4 +14,4 @@ TODO: Refactor how sponsorship info is maintained.
 
 TODO: Write blurbs about what sponsors have done for us. (Funding, GE's "Ghost Red CTF", etc.)
 
-TODO: Put up some info about how to become a sponsor.
+For information on how to become a sponsor, please contact us at [officers@vtcsec.org](mailto:officers@vtcsec.org).
