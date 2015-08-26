@@ -1,11 +1,8 @@
-{% assign meeting = page %}
-
 {% capture __abbr %}{{ meeting.where | split:' ' | first }}{% endcapture %}
 {% for b in site.data.buildings %}
   {% for abbr in b.abbrs %}
     {% if abbr == __abbr %}
       {% assign building = b %}
-      {% assign wat = b %}
     {% endif %}
   {% endfor %}
 {% endfor %}

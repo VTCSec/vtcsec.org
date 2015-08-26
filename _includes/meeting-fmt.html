@@ -1,0 +1,15 @@
+{% if meeting.when != 'TBD' %}
+  at {{ meeting.when }}
+{% endif %}
+{% if meeting.where != 'TBD' %}
+  {% if building %}
+    in {{ meeting.where }}
+    {% if building.map %}
+      (<a href="{{ building.map }}">{{ building.name }})</a>
+    {% else %}
+      ({{ building.name }})
+    {% endif %}
+  {% else %}
+    at {{ meeting.where }}
+  {% endif %}
+{% endif %}

@@ -1,6 +1,6 @@
 ---
-topic: "Planning meeting"
+what:  "Planning meeting"
+where: "WLH 350"
 when:  "18:30"
-where: WLH 350
 ---
 Foo all the bars!
