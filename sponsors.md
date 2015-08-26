@@ -5,7 +5,7 @@ permalink: /sponsors/
 ---
 
 ## GM Foundation
-![GM Foundation](/images/sponsor-gm-foundation-scaled.gif)
+![GM Foundation](/images/sponsor-gm-scaled.gif)
 
 ## General Electric
 ![General Electric](/images/sponsor-ge-scaled.gif)

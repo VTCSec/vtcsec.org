@@ -1,4 +1,6 @@
 - name: General Electric
   url: http://www.ge.com/
+  slug: ge
 - name: GM Foundation
   url: http://www.gm.com/
+  slug: gm
