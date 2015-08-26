@@ -8,6 +8,7 @@ description: >
   including physical, social, hardware, and software.
 baseurl: ""
 url: "http://vtcsec.org"
+timezone: US/Eastern
 
 collections:
   meetings:
