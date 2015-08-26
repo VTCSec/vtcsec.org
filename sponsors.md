@@ -4,12 +4,14 @@ title: Sponsors
 permalink: /sponsors/
 ---
 
-![GM Foundation](/images/sponsor-gm-foundation-scaled.jpg)
+## GM Foundation
+![GM Foundation](/images/sponsor-gm-foundation-scaled.gif)
 
 ## General Electric
+![General Electric](/images/sponsor-ge-scaled.gif)
 
-TODO: Get preferred logos from companies.
+TODO: Refactor how sponsorship info is maintained.
 
-TODO: Get blurbs about what sponsors have done for us. (Funding, GE's "Ghost Red CTF", etc.)
+TODO: Write blurbs about what sponsors have done for us. (Funding, GE's "Ghost Red CTF", etc.)
 
 TODO: Put up some info about how to become a sponsor.
