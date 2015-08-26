@@ -113,6 +113,14 @@
         padding: 0.2em;
     }
 }
+.icon-links {
+    a:hover {
+        text-decoration: none;
+        span {
+            text-decoration: underline;
+        }
+    }
+}
 
 .footer-col-wrapper {
     font-size: 15px;
