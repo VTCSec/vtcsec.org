@@ -27,9 +27,10 @@
 
 </header>
 
-<!-- TODO: Remove me. -->
-<div style="margin-top: 1em; text-align: center;">
-  <div style="display: inline-block; background: orange; padding: 0 0.5em; border-radius: 5px;">
-    Please bear with us as we migrate to the new website. Not everything is up yet.
-  </div>
+{% if site.notice %}
+<div class="notice-wrap">
+  <span class="notice">
+    {{ site.notice | markdownify | remove:'<p>' | remove:'</p>' }}
+  </span>
 </div>
+{% endif %}
