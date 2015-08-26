@@ -1,11 +1,28 @@
 ---
 layout: default
 ---
+
+{% include meeting.html %}
+
 <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+    <h1 class="post-title">{{ meeting.topic }}</h1>
+    <p class="post-meta">
+      {% if meeting.when != 'TBD' %}
+        at {{ meeting.when }}
+      {% endif %}
+      {% if meeting.where != 'TBD' %}
+        in {{ meeting.where }}
+        {% if building %}
+          {% if building.map %}
+          (<a href="{{ building.map }}">{{ building.name }})</a>
+          {% else %}
+          ({{ building.name }})
+          {% endif %}
+        {% endif %}
+      {% endif %}
+    </p>
   </header>
 
   <article class="post-content">

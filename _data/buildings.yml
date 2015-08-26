@@ -1,0 +1,6 @@
+- name: Lavery Hall
+  abbrs: WLH
+  map: https://www.google.com/maps/place/Lavery+Hall/@37.2311489,-80.4228294,17z
+- name: Goodwin Hall
+  abbrs: [ GOODW, SEB ]
+  map: https://www.google.com/maps/place/Goodwin+Hall/@37.232631,-80.4255237,17z

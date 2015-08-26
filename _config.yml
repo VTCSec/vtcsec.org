@@ -18,6 +18,8 @@ defaults:
       type: meetings
     values:
       layout: meeting
+      where: WLH 350
+      when: "18:30"
 
 # Build settings
 markdown: kramdown

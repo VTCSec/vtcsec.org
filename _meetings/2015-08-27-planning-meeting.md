@@ -1,7 +1,6 @@
 ---
-layout: post
-title:  "Planning meeting for returning members."
-date:   2015-08-27 18:30:00
-location: "To be determined."
+topic: "Planning meeting"
+when:  "18:30"
+where: WLH 350
 ---
 Foo all the bars!
