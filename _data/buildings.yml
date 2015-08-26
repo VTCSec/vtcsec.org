@@ -4,3 +4,6 @@
 - name: Goodwin Hall
   abbrs: [ GOODW, SEB ]
   map: https://www.google.com/maps/place/Goodwin+Hall/@37.232631,-80.4255237,17z
+- name: McBryde Hall
+  abbrs: MCB
+  map: https://www.google.com/maps/place/McBryde+Hall/@37.2305719,-80.4217878,17z
