@@ -19,7 +19,7 @@
           {% for account in site.data.on_the_web.accounts %}
           <li>
             <a href="{{ account.url }}">
-              <img class="icon" src="{{ site.baseurl }}/images/site-{{ account.site | slugify | downcase }}.png" />
+              <img class="icon" src="{{ site.baseurl }}/images/{{ account.icon }}" />
               <span class="username">{% if account.user %}{{ account.user }}{% else %}{{ site.data.on_the_web.default_user }}{% endif %}</span>
             </a> on {{ account.site }}
           </li>
