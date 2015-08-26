@@ -11,14 +11,12 @@ awareness and expertise in all areas of cyber security including physical,
 social, hardware, and software.</p>
 
   <h1 class="page-heading">Meetings</h1>
-
   <ul class="post-list">
     {% for meeting in site.meetings %}
       <li>
         <span class="post-meta">{{ meeting.date | date: "%b %-d, %Y" }}</span>
-
         <h2>
-          <a class="post-link" href="{{ meeting.url | prepend: site.baseurl }}">{{ meeting.title }}</a>
+          <a class="post-link" href="{{ meeting.url | prepend: site.baseurl }}">{{ meeting.topic }}</a>
         </h2>
       </li>
     {% endfor %}
