@@ -1,4 +1,79 @@
-{% capture __abbr %}{{ meeting.where | split:' ' | first }}{% endcapture %}
+{% comment %}
+  This should be included once for each meeting to have its info displayed.
+
+  The `meeting' variable shall be set to a meeting object (`page` when viewing
+  meeting details, or an object in the meetings collection when iterating
+  through multiple meetings or whatever).
+
+  Afterwards, some vars are set to be consumed from _includes/meeting-fmt.html.
+{% endcomment%}
+
+{% capture __date %}{{ meeting.path | split:'/' | last | replace:'-',' ' | truncatewords:3,'' | replace:' ','-' }}{% endcapture %}
+
+{% assign __date_a = __date | split:'-' %}
+{% assign year = __date_a[0] %}
+{% assign month = __date_a[1] %}
+{% assign day = __date_a[2] %}
+
+{% comment %}
+  https://www.registrar.vt.edu/dates_deadlines/academic_calendar/2015-2016.html
+  Splitting semesters with sub-month precision is prone to error due to
+  differences from year to year, so just don't bother.
+
+  AFAIK we've never met during winter or summer sessions, and since those are
+  relatively short anyway, we can just specify the semester in the frontmatter
+  for those meeting entries.
+{% endcomment %}
+{% if meeting.semester %}
+  {% assign semester = meeting.semester %}
+{% else %}
+  {% if month >= '01' and month <= '05' %}
+    {% assign __semester = 'spring' %}
+  {% elsif month >= '08' and month <= '12' %}
+    {% assign __semester = 'fall' %}
+  {% else %}
+    {% comment %}
+      XXX: I wish there were a way to have a template throw an error based on
+      the input evaluated that makes the site conditionally fail to compile
+      instead of just having silent bad output.
+      TODO: Emulate the above (poorly) with {% assign error = ... %} and a big
+      fat ugly error rendered at the bottom of the page or something so that we
+      catch stuff.
+    {% endcomment %}
+  {% endif %}
+  {% capture semester %}{{ __semester }}-{{ year }}{% endcapture %}
+{% endif %}
+{% capture pretty_semester %}{{ __semester | capitalize }} {{ year }}{% endcapture %}
+
+{% comment %}
+  Default time and place per-semester. Fed from _data/semesters.yml.
+{% endcomment %}
+{% assign default_when = 'TBD' %}
+{% assign default_where = 'TBD' %}
+{% for _s in site.data.semesters %}
+  {% for s in _s %}
+    {% if s[0] == semester %}
+      {% assign default_when = s[1].time %}
+      {% assign default_where = s[1].room %}
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+
+{% if meeting.when %}
+  {% assign when = meeting.when %}
+{% else %}
+  {% assign when = default_when %}
+{% endif %}
+{% if meeting.where %}
+  {% assign where = meeting.where %}
+{% else %}
+  {% assign where = default_where %}
+{% endif %}
+
+{% assign __time = when | append:':00:00' | truncate:8,'' %}
+{% capture date %}{{ __date }} {{ __time }}{% endcapture %}
+
+{% capture __abbr %}{{ where | split:' ' | first }}{% endcapture %}
 {% for b in site.data.buildings %}
   {% for abbr in b.abbrs %}
     {% if abbr == __abbr %}

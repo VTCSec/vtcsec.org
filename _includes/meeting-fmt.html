@@ -1,15 +1,30 @@
-{% if meeting.when != 'TBD' %}
-  at {{ meeting.when }}
+{% comment %}
+  All relevant variables set in _includes/meeting-data.html.
+{% endcomment %}
+{% comment %}
+  XXX We could display something special that stands out if
+  where != default_where or when != default_when. (All variables already set
+  in meeting-data.html.) It would be useful to put special emphasis on that 
+  information when we need to have a single meeting not at the same place/time
+  as all the others so people notice.
+{% endcomment %}
+{% if when != 'TBD' %}
+  {% comment %}
+    XXX Maybe say "at a place to be determined" or something here, instead of
+    just silently omitting the information entirely.
+  {% endcomment %}
+  on {{ date | date:'%A, %B %-d, %Y' }}
+  at {{ date | date:'%I:%M %p' }}
 {% endif %}
-{% if meeting.where != 'TBD' %}
+{% if where != 'TBD' %}
   {% if building %}
-    in {{ meeting.where }}
+    in {{ where }}
     {% if building.map %}
       (<a href="{{ building.map }}">{{ building.name }})</a>
     {% else %}
       ({{ building.name }})
     {% endif %}
   {% else %}
-    at {{ meeting.where }}
+    at {{ where }}
   {% endif %}
 {% endif %}
