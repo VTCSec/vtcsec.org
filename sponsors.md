@@ -12,6 +12,6 @@ GM Foundation has sponsored the club by providing funding for the Cyber Security
 ## General Electric
 ![General Electric](/images/sponsor-ge-scaled.gif)
 
-GE has sponsored the club both by providing funding and by hosting a capture the flag competition last year.
+GE has sponsored the club by providing funding and by hosting a capture the flag competition last year at Virginia Tech. 
 
 For information on how to become a sponsor please contact us at [officers@vtcsec.org](mailto:officers@vtcsec.org).
