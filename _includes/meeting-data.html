@@ -82,3 +82,9 @@
     {% endif %}
   {% endfor %}
 {% endfor %}
+
+{% assign __date_cmp_meeting = date | date:'%F' %}
+{% assign __date_cmp_now = site.time | date:'%F' %}
+{% if __date_cmp_meeting >= __date_cmp_now %}
+  {% assign meeting_in_future = 1 %}
+{% endif %}
