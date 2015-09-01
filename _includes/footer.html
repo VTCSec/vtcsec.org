@@ -19,7 +19,7 @@
           {% for account in site.data.on_the_web.accounts %}
           <li>
             <a href="{{ account.url }}">
-              <img src="{{ site.baseurl }}/images/{{ account.icon }}" />
+              <img src="/images/{{ account.icon }}" />
               <span class="username">{% if account.user %}{{ account.user }}{% else %}{{ site.data.on_the_web.default_user }}{% endif %}</span>
             </a> on {{ account.site }}
           </li>
@@ -33,7 +33,7 @@
           {% for sponsor in site.data.sponsors %}
           <li>
             <a href="{{ sponsor.url }}">
-              <img src="{{ site.baseurl }}/images/sponsor-{{ sponsor.slug }}-tiny.gif" />
+              <img src="/images/sponsor-{{ sponsor.slug }}-tiny.gif" />
               <span class="company">{{ sponsor.name }}</span>
             </a>
           </li>
