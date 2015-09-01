@@ -14,7 +14,7 @@
     just silently omitting the information entirely.
   {% endcomment %}
   on {{ date | date:'%A, %B %-d, %Y' }}
-  at {{ date | date:'%I:%M %p' }}
+  at {{ date | date:'%-I:%M %p' }}
 {% endif %}
 {% if where != 'TBD' %}
   {% if building %}

@@ -88,3 +88,5 @@
 {% if __date_cmp_meeting >= __date_cmp_now %}
   {% assign meeting_in_future = 1 %}
 {% endif %}
+
+{% assign date_iso_8601 = date | date:'%FT%T%:z' %}
