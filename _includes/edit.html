@@ -1,9 +1,11 @@
-{% if page.relative_path %}
-  {% assign actual_relative_path = page.relative_path %}
-{% else %}
-  {% assign actual_relative_path = page.path %}
+{% if site.edit_url %}
+  {% if page.relative_path %}
+    {% assign actual_relative_path = page.relative_path %}
+  {% else %}
+    {% assign actual_relative_path = page.path %}
+  {% endif %}
+  {% comment %}
+    Still not sure this is reliable.
+  {% endcomment %}
+  <a class="edit-page" href="{{ site.edit_url }}{{ actual_relative_path }}">Edit this page!</a>
 {% endif %}
-{% comment %}
-  Still not sure this is reliable.
-{% endcomment %}
-<a class="edit-page" href="{{ site.edit_url }}{{ actual_relative_path }}">Edit this page!</a>
