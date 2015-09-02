@@ -246,6 +246,10 @@
 .post-content {
     margin-bottom: $spacing-unit;
 
+    h1 {
+        margin-top: $spacing-unit;
+    }
+
     h2 {
         font-size: 32px;
 
