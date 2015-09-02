@@ -99,6 +99,12 @@
     border-radius: 5px;
 }
 
+.edit-page,
+.edit-page:visited {
+    color: #7f7f7f;
+    float: right;
+}
+
 
 /**
  * Site footer
@@ -223,6 +229,7 @@
 }
 
 .post-title {
+    display: inline-block;
     font-size: 42px;
     letter-spacing: -1px;
     line-height: 1;

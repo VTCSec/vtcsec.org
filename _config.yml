@@ -8,6 +8,7 @@ description: >
   including physical, social, hardware, and software.
 url: "http://vtcsec.org"
 timezone: US/Eastern
+edit_url: https://github.com/vtcsec/vtcsec.org/edit/gh-pages/
 
 collections:
   meetings:
