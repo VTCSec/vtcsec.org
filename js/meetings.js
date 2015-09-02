@@ -1,27 +1,53 @@
-document.addEventListener('DOMContentLoaded', function() {
-  function process(meetings, removePast) {
-    var today = (new Date()).toISOString().split('T')[0];
-    for (var i = 0; i < meetings.length; i++) {
-      var meeting = meetings[i];
-      var rawDate = new Date(meeting.getAttribute('date'));
-      var justDay = rawDate.toISOString().split('T')[0];
+/* XXX TODO: Maybe we also want a site-wide countdown timer thing? */
 
-      /* Filter old meetings out of lists. */
-      if (justDay < today && removePast) {
-        console.log('Removing old meeting on ' + justDay + ' from list.');
-        meeting.remove();
-        continue;
+/* All local to your timezone. */
+Date.prototype.toLocalISODate = function() {
+  return this.getFullYear() + '-' + this.getMonth() + '-' + this.getDate();
+}
+Date.prototype.isToday = function() {
+  return this.toLocalISODate() === (new Date()).toLocalISODate();
+}
+Date.prototype.isTodayOrLater = function() {
+  return this.toLocalISODate() >= (new Date()).toLocalISODate();
+};
+
+window.Meetings = new (function() {
+  this.iterate = function(callback) {
+    var lists = document.getElementsByClassName('meeting-list');
+    for (var i = 0; i < lists.length; i++)
+      for (var j = 0; j < lists[i].children.length; j++)
+        callback(lists[i].children[j], lists[i]);
+  };
+
+  /* Might be cleaner to just leave the date in the attribute... not sure. */
+  this.extractDateAttributes = function() {
+    this.iterate(function(meeting) {
+      meeting.date = new Date(meeting.getAttribute('date'));
+      meeting.removeAttribute('date');
+    });
+  };
+
+  this.nextMeeting = function() {
+    var closestMeeting;
+    this.iterate(function(meeting) {
+      if (meeting.date.isTodayOrLater() &&
+          (closestMeeting === undefined ||
+          meeting.date < closestMeeting.date)) {
+        closestMeeting = meeting;
       }
+    });
+    return closestMeeting;
+  };
 
-      /* Maybe a cleaner way to do this, but the way I had before was uglier
-       * with hardcoded assumptions about the DOM structure. */
-
+  this.markToday = function() {
+    /* XXX Ugly hacks! */
+    this.iterate(function(meeting) {
       /* Find meeting entries we need to mark / unmark. */
-      if (justDay === today && !meeting.classList.contains('today'))
+      if (meeting.date.isToday() && !meeting.classList.contains('today'))
         meeting.classList.add('mark-today'); // meh
-      else if (justDay !== today && meeting.classList.contains('today'))
+      else if (!meeting.date.isToday() && meeting.classList.contains('today'))
         meeting.classList.add('unmark-today');
-    }
+    });
 
     /* Remove old today markers. */
     var todays = document.querySelectorAll('.unmark-today .today-text');
@@ -46,17 +72,30 @@ document.addEventListener('DOMContentLoaded', function() {
     }
     for (var i = 0; i < marked.length; i++)
       marked[i].classList.remove('mark-today');
+  };
 
-    /* XXX This whole manipulation via temporary classes is rather hacky. */
+  this.removePast = function() {
+    this.iterate(function(meeting, list) {
+      if (!meeting.date.isTodayOrLater() &&
+          list.classList.contains('future-only')) {
+        meeting.remove();
+        console.log('Removing old meeting on ' +
+          meeting.date.toDateString() + ' from list.');
+      }
+    });
+  };
 
-    /* XXX TODO: Maybe we also want a site-wide countdown timer thing? */
+  this.update = function() {
+    this.removePast();
+    this.markToday();
+    /* XXX Maybe have this schedule itself again when we expect to
+     * have changes to make? That'd be better than just arbitrarily
+     * every hour. */
   }
-  function processAll() {
-    var lists = document.getElementsByClassName('meeting-list');
-    for (var i = 0; i < lists.length; i++) {
-      process(lists[i].children, lists[i].classList.contains('future-only'));
-    }
-  }
-  processAll();
-  setInterval(processAll, 1000 * 60 * 60); // Every hour.
+})();
+
+document.addEventListener('DOMContentLoaded', function() {
+  Meetings.extractDateAttributes();
+  Meetings.update();
+  setInterval(Meetings.update, 1000 * 60 * 60); // Every hour.
 });
