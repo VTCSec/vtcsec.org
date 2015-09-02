@@ -4,6 +4,8 @@ title: Resources
 permalink: /resources/
 ---
 
+<span class="notice">This page is under construction.</span>
+
 Resources for learning about computer security and related fields.
 
 ## Crypto 
