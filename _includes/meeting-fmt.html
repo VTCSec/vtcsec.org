@@ -13,7 +13,7 @@
     XXX Maybe say "at a place to be determined" or something here, instead of
     just silently omitting the information entirely.
   {% endcomment %}
-  on {{ date | date:'%A, %B %-d, %Y' }}
+  {{ date | date:'%A, %b %-d, %Y' }}
   at {{ date | date:'%-I:%M %p' }}
 {% endif %}
 {% if where != 'TBD' %}
