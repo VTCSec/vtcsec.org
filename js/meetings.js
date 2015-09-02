@@ -1,6 +1,6 @@
 /*
  * Feel free to improve any & all of this.
- * I don't /really/ know JavaScript anyway.
+ * I really don't know JavaScript anyway.
  */
 
 "use strict";
