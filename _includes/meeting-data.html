@@ -73,6 +73,11 @@
 
 {% assign __time = when | append:':00' | truncate:5,'' %}
 {% capture date %}{{ __date }} {{ __time }}{% endcapture %}
+{% comment %}
+  Date conforms to ECMA-262 15.9.1.15 (Date Time String Format)
+  http://www.ecma-international.org/ecma-262/5.1/#sec-15.9.1.15
+  Based on ISO 8601
+{% endcomment %}
 
 {% capture __abbr %}{{ where | split:' ' | first }}{% endcapture %}
 {% for b in site.data.buildings %}
