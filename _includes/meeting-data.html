@@ -71,7 +71,7 @@
   {% assign where = default_where %}
 {% endif %}
 
-{% assign __time = when | append:':00:00' | truncate:8,'' %}
+{% assign __time = when | append:':00' | truncate:5,'' %}
 {% capture date %}{{ __date }} {{ __time }}{% endcapture %}
 
 {% capture __abbr %}{{ where | split:' ' | first }}{% endcapture %}
