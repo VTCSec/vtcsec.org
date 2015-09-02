@@ -2,6 +2,8 @@
  * Site header
  */
 .site-header {
+    margin-bottom: -webkit-calc(#{$spacing-unit} / 2);
+    margin-bottom:        -calc(#{$spacing-unit} / 2);
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
@@ -89,11 +91,12 @@
     }
 }
 
-.notice-wrap {
-    margin-top: 1em;
-    text-align: center;
-}
 .notice {
+    display: table;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: -webkit-calc(#{$spacing-unit} / 2);
+    margin-bottom:        -calc(#{$spacing-unit} / 2);
     background: orange;
     padding: 0.25em 0.5em;
     border-radius: 5px;
@@ -192,7 +195,7 @@
  * Page content
  */
 .page-content {
-    padding: $spacing-unit 0;
+    padding-bottom: $spacing-unit;
 }
 
 .post-list {
@@ -228,10 +231,6 @@
 /**
  * Posts
  */
-.post-header {
-    margin-bottom: $spacing-unit;
-}
-
 .post-title {
     display: inline-block;
     font-size: 42px;

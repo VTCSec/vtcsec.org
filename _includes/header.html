@@ -28,9 +28,9 @@
 </header>
 
 {% if site.notice %}
-<div class="notice-wrap">
-  <span class="notice">
+<div class="wrapper">
+  <p class="notice">
     {{ site.notice | markdownify | remove:'<p>' | remove:'</p>' }}
-  </span>
+  </p>
 </div>
 {% endif %}
