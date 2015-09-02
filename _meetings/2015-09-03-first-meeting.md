@@ -1,7 +1,7 @@
 ---
 what:  "CTF Preparation Meeting"
 ---
-We have reserved a room for the semester. Club meetings this Fall will be held in WLH 320 (Lavery Hall) on Thursdays at 6:30pm. Many thanks to Carolyne Dudding with the Navy ROTC for her willingness to relinquish one of the rooms they had reserved for tutoring this semester. 
+We have reserved a room for the semester. Club meetings this Fall will be held in WLH 320 (Lavery Hall / upstairs of Turner Place) on Thursdays at 6:30pm. Many thanks to Carolyne Dudding with the Navy ROTC for her willingness to relinquish one of the rooms they had reserved for tutoring this semester. 
 
 Our next meeting will be a capture-the-flag (CTF) preparation meeting. See the [CTF Field Guide][ctfguide] for more info as to what a CTF is and why you should be interested in participating. We'll have some challenges for you to play to get familiar with jeopardy-style CTF environments and to try to identify particular areas on which you may want to focus. Some areas of interest are cryptography, reverse engineering, network forensics and web exploitation. 
 
