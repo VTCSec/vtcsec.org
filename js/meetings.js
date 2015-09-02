@@ -1,3 +1,5 @@
+"use strict";
+
 /* XXX TODO: Maybe we also want a site-wide countdown timer thing? */
 
 /* All local to your timezone. */
