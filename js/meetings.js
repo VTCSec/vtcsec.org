@@ -1,3 +1,8 @@
+/*
+ * Feel free to improve any & all of this.
+ * I don't /really/ know JavaScript anyway.
+ */
+
 "use strict";
 
 /* XXX TODO: Maybe we also want a site-wide countdown timer thing? */
