@@ -23,6 +23,13 @@ body {
     -webkit-text-size-adjust: 100%;
 }
 
+hr {
+    width: -webkit-calc(#{$spacing-unit} * 2);
+    width:        -calc(#{$spacing-unit} * 2);
+    border: 1px solid $grey-color;
+    margin: $spacing-unit auto;
+}
+
 
 
 /**
