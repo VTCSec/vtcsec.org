@@ -14,7 +14,7 @@ We hope to see you there!
 VM image details:
 
  - url: <https://docs.google.com/uc?id=0ByEfO77rnQ8bbnZzZ1BMQm1JcjQ&export=download>
- - sha256: a0f2b46938032a89ea747de4be7bd0b058273755d85eccda021d8106820daa20
+ - sha256: `a0f2b46938032a89ea747de4be7bd0b058273755d85eccda021d8106820daa20`
  - size: 3591808512 bytes
 
 Sorry, no torrent or pgp-signature available at this time.
