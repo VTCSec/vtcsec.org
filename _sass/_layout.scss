@@ -45,6 +45,16 @@
         &:not(:first-child) {
             margin-left: 20px;
         }
+
+        // The page we're on.
+        &.current-nav {
+            border-bottom: 3px solid $grey-color-light;
+        }
+
+        &:hover {
+            text-decoration: none;
+            border-bottom: 3px solid $grey-color-dark;
+        }
     }
 
     @include media-query($on-palm) {

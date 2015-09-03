@@ -1,0 +1,5 @@
+{% comment %}
+  nav_entry is a site.pages
+{% endcomment %}
+<a class="page-link{% if nav_entry.path == page.path %} current-nav{% endif %}"
+  href="{{ nav_entry.url }}">{{ nav_entry.title }}</a>

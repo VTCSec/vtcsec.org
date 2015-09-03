@@ -19,25 +19,25 @@
           XXX nav_order entries without corresponding pages are silent errors.
         {% endcomment %}
         {% for title in site.data.nav_order %}
-          {% for page in site.pages %}
-            {% if page.title and page.title == title %}
-              <a class="page-link" href="{{ page.url }}">{{ page.title }}</a>
+          {% for nav_entry in site.pages %}
+            {% if nav_entry.title and nav_entry.title == title %}
+              {% include nav-entry.html %}
             {% endif %}
           {% endfor %}
         {% endfor %}
         {% comment %}
           Put the rest of the pages without a specified order at the end.
         {% endcomment %}
-        {% for page in site.pages %}
-          {% if page.title %}
+        {% for nav_entry in site.pages %}
+          {% if nav_entry.title %}
             {% assign has_explicit_order = false %}
             {% for title in site.data.nav_order %}
-              {% if page.title == title %}
+              {% if nav_entry.title == title %}
                 {% assign has_explicit_order = true %}
               {% endif %}
             {% endfor %}
             {% if has_explicit_order == false %}
-              <a class="page-link" href="{{ page.url }}">{{ page.title }}</a>
+              {% include nav-entry.html %}
             {% endif %}
           {% endif %}
         {% endfor %}
