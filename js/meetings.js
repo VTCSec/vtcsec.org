@@ -70,7 +70,7 @@ window.Meetings = new (function() {
     var marked = document.querySelectorAll('.mark-today');
     for (var i = 0; i < marked.length; i++)
       marked[i].classList.add('today');
-    var to_insert = document.querySelectorAll('.mark-today a');
+    var to_insert = document.querySelectorAll('.mark-today .post-link');
     for (var i = 0; i < to_insert.length; i++) {
       var span = document.createElement('span');
       span.classList.add('today-text');
