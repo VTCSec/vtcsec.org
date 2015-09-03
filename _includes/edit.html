@@ -1,4 +1,7 @@
-{% if site.edit_url %}
+{% comment %}
+  XXX Might want to change where this is included from.
+{% endcomment %}
+{% if site.edit_url and page.edit_link %}
   {% if page.relative_path %}
     {% assign actual_relative_path = page.relative_path %}
   {% else %}

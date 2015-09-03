@@ -2,6 +2,7 @@
 layout: page
 title: Wargame
 permalink: /wargame/
+edit_link: true
 ---
 
 The wargame infrastructure is currently being completely reimplemented.

@@ -2,6 +2,7 @@
 layout: page
 title: Resources
 permalink: /resources/
+edit_link: true
 ---
 
 <span class="notice">This page is under construction.</span>

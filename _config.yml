@@ -12,12 +12,19 @@ edit_url: https://github.com/vtcsec/vtcsec.org/edit/gh-pages/
 collections:
   meetings:
     output: true
+
 defaults:
   - scope:
       path: ""
       type: meetings
     values:
       layout: meeting
+      edit_link: true
+  - scope:
+      path: ""
+      type: posts
+    values:
+      edit_link: true
 
 # Build settings
 markdown: kramdown
