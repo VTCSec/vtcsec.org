@@ -111,10 +111,11 @@
     border-radius: 5px;
 }
 
-.edit-page,
-.edit-page:visited {
-    color: #7f7f7f;
-    float: right;
+.edit-page {
+    &, &:visited {
+        color: $grey-color;
+        float: right;
+    }
 }
 
 
