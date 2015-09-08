@@ -9,11 +9,13 @@
 
 /* All local to your timezone. */
 Date.prototype.toLocalISODate = function() {
-  return this.getFullYear() + '-' + this.getMonth() + '-' + this.getDate();
-}
+  function pad(x) { return ('0'+x).slice(-2); }
+  return this.getFullYear() + '-' +
+    pad(this.getMonth()) + '-' + pad(this.getDate());
+};
 Date.prototype.isToday = function() {
   return this.toLocalISODate() === (new Date()).toLocalISODate();
-}
+};
 Date.prototype.isTodayOrLater = function() {
   return this.toLocalISODate() >= (new Date()).toLocalISODate();
 };
