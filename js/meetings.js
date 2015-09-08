@@ -100,6 +100,10 @@ window.Meetings = new (function() {
     /* XXX Maybe have this schedule itself again when we expect to
      * have changes to make? That'd be better than just arbitrarily
      * every hour. */
+
+    /* XXX Eww. */
+    document.getElementsByClassName('no-meetings')[0].style.display =
+      this.nextMeeting() === undefined ? 'block' : 'none';
   }
 })();
 
