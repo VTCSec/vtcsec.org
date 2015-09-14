@@ -7,7 +7,7 @@ permalink: /sponsors/
 ## GM Foundation
 ![GM Foundation](/images/sponsor-gm-scaled.gif)
 
-GM Foundation has sponsored the club by providing funding for the Cyber Security Summit. They are also providing a speaker this semester to talk about security measures in their vehicles. More information about this speaker will be posted shortly.
+GM Foundation has sponsored the club by providing funding for the Cyber Security Summit. They also sent Mr. Mark Rogers in Fall 2015 to speak to the club about vehicle cybersecurity.
 
 ## General Electric
 ![General Electric](/images/sponsor-ge-scaled.gif)
