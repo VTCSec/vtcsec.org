@@ -5,7 +5,7 @@ permalink: /resources/getting-started.html
 edit_link: true
 ---
 
-If you're on this page I'm going to assume that you are new to the Cyber Security Club. Welcome, we're glad to have you. This page is intended to help you start participating in the club. We have weekly meetings that offer students the opportunity to get a jumpstart on learning security topics that are not typically taught until the 4000 level in the ECE and CS departments here at VT. 
+If you're on this page I'm going to assume that you are new to the Cyber Security Club. Welcome, we're glad to have you. This page is intended to help you start participating in the club. We have weekly meetings that offer students the opportunity to get a jumpstart on learning security topics that are not typically taught until the 4000 level in the ECE and CS departments here at VT, and even then, not in great depth.
 
 Some members limit their participation to coming to those meetings and listening to talks and seminars given by other members. That's fine, but this page is not really intended for those members, it is intended for those who want to get more out of their membership in the club and are willing to put in extra time on their own in order to do so. 
 
