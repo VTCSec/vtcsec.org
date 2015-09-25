@@ -2,11 +2,18 @@
 what: Conor Patrick on btproxy / CTF Prep
 ---
 
-On our meeting this Thursday we will continue our recent tradition of weekly news updates from Conor Patrick regarding current events. These updates will include breaches, vulnerabilities, and happenings since the last meeting.
+On our meeting this Thursday we will continue our recent tradition of weekly news updates from Conor Patrick regarding current events.
+These updates will include breaches, vulnerabilities, and happenings since the last meeting.
 
-Conor will also be giving a talk on a project that he has been working on called 'btproxy'. You can see the source code on Github [here][github]. He will be beginning the talk with a brief discussion of the man-in-the-middle (MiTM) attack model and will then jump into specific examples, including his own.
+Conor will also be giving a talk on a project that he has been working on called 'btproxy'.
+You can see the source code on Github [here][github].
+He will be beginning the talk with a brief discussion of the man-in-the-middle (MiTM) attack model and will then jump into specific examples, including his own.
 
-After Conor's presentation we will also be doing additional CTF preparation. There are a few approachable challenges below. Ideally, some of you will have completed one of these challenges and will be able to provide a writeup of how you did so. If you find a different challenge and think it would be worth discussing, bring that information to the meeting! Don't forget that the CSAW CTF is being held this weekend. More details on the space we've reserved for participants will be provided at the meeting.
+After Conor's presentation we will also be doing additional CTF preparation.
+There are a few approachable challenges below.
+Ideally, some of you will have completed one of these challenges and will be able to provide a writeup of how you did so.
+If you find a different challenge and think it would be worth discussing, bring that information to the meeting! Don't forget that the CSAW CTF is being held this weekend.
+More details on the space we've reserved for participants will be provided at the meeting.
 
 We hope to see you there!
 
@@ -30,7 +37,9 @@ We hope to see you there!
 
 [Web 1][Web 1] challenge sequels2
 
-For more challenges, go to [shell-storm][shell-storm]. Any of the CSAW CTFs have some good challenges.  (Walk-throughs are online for most of them.)
+For more challenges, go to [shell-storm][shell-storm].
+Any of the CSAW CTFs have some good challenges.
+(Walk-throughs are online for most of them.)
 
 [github]: https://github.com/conorpp/btproxy
 [Crypto 1]: http://bitsforeveryone.com 
