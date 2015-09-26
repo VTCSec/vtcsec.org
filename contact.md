@@ -4,21 +4,23 @@ title: Contact
 permalink: /contact/
 ---
 
-Please use email as your first method of contact at the address below.
+Please use [email][officers@] as your first method of contact at the address below.
 
 ## Current Officers
-  - President: Noah Luther
-  - Vice-President: Jean-Philippe Ouellet
-  - Treasurer: Marcus Wanner
+{% for officer in site.data.officers %}
+  - {{ officer.position }}: {{ officer.name }}
+{% endfor %}
 
 ## Email
-[officers@vtcsec.org](mailto:officers@vtcsec.org)
+[officers@vtcsec.org][officers@]
 
 ## IRC
 [#vtcsec][webchat] on [OFTC][oftc]
 
+## Google Group
+[cybersecurity-g@vt.edu][google group]
+
 [webchat]: https://webchat.oftc.net/?channels=vtcsec
 [oftc]: http://www.oftc.net/
-
-## Google Group
-[cybersecurity-g@vt.edu](https://groups.google.com/a/vt.edu/forum/#!forum/cybersecurity-g)
+[officers@]: mailto:officers@vtcsec.org
+[google group]: https://groups.google.com/a/vt.edu/forum/#!forum/cybersecurity-g
