@@ -38,12 +38,16 @@ engineer some of the firmware versions of the coffee pot, or beyond.
 Network Capture
 ===============
 
+<<<<<<< HEAD
 A USB WiFi card, similar to an ALFA, will be used to set up a network.  All traffic will be
 logged with tcpdump or Wireshark.  HTTP traffic is commonly used so it will be forwarded through
 a HTTP proxy to get more detailed logs.
 
 
 Check out our [github repo](https://github.com/vtcsec/coffeepot) to see up to date work.
+=======
+A USB WiFi card, similar to an ALFA, will be used to set up a network.
+>>>>>>> b7243fda1a0787c452df02dd460fd5f554741fa5
 
 
 
