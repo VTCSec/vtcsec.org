@@ -10,7 +10,7 @@ We hope to see you there!
 ("homework" challenge from last week's meeting)
 
     from socket import *
-    port struct
+    import struct
     
     s = socket(AF_INET, SOCK_STREAM)
     s.connect(("vortex.labs.overthewire.org", 5842))
