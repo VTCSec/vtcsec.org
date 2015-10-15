@@ -6,7 +6,7 @@ This week Dr. Raymond will be giving a workshop on reverse engineering. Details 
 
 We hope to see you there!
 
-## marcusw's python solution to Vortex 0
+## marcusw's python solution to [Vortex 0](http://overthewire.org/wargames/vortex/vortex0.html)
 ("homework" challenge from last week's meeting)
 
     from socket import *
