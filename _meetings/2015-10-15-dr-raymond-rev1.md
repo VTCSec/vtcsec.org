@@ -6,9 +6,8 @@ This week Dr. Raymond will be giving a workshop on reverse engineering. Details 
 
 We hope to see you there!
 
-====
-marcusw's python solution to Vortex 0 ("homework" challenge from last week's meeting)
-====
+## marcusw's python solution to Vortex 0
+("homework" challenge from last week's meeting)
 
     from socket import *
     port struct
