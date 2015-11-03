@@ -118,6 +118,14 @@
     }
 }
 
+.read-damnit {
+    color: red;
+    &, & a {
+        font-weight: bold;
+        text-decoration: underline;
+    }
+}
+
 
 /**
  * Site footer
