@@ -36,8 +36,6 @@ Having working knowledge of network protocols such as TCP/IP and HTTP never hurt
 
 These are things that are impossible to teach in a single meeting, but there are many tutorials and explanations of these topics on the Internet that you will want to read to gain background knowledge.
 
-To paraphrase Immanuel Kant,
-
 > Theory without practice is futile. Practice without theory is fatal.
 
 The only way to really learn security is to not only read but to do.
