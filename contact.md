@@ -17,6 +17,9 @@ Please use [email][officers@] as your first method of contact at the address bel
 ## IRC
 [#vtcsec][webchat] on [OFTC][oftc]
 
+## Slack
+[Slack][slack]
+
 ## Google Group
 [cybersecurity-g@vt.edu][google group]
 
@@ -24,3 +27,4 @@ Please use [email][officers@] as your first method of contact at the address bel
 [oftc]: http://www.oftc.net/
 [officers@]: mailto:officers@vtcsec.org
 [google group]: https://groups.google.com/a/vt.edu/forum/#!forum/cybersecurity-g
+[slack]: vtcsec.slack.com
