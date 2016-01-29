@@ -20,6 +20,9 @@ We won't hold your hand and we expect you to be able to learn things independent
 The more time you put in outside of club meetings the more proficient you will become in this field. 
 The more proficient you become the more fun you will have.
 
+## What do I have to do to join the club?
+VTCSec has no member list because we respect your privacy. All students and other interested parties are welcome. Join our mailing list to find out about meetings. Most active members also discuss security topics during the week using the [IRC][IRC_Intro] channel and relayed [slack domain][slack].
+
 ## What topics are involved in cyber security?
 This is a tough question.
 Cyber security is an extraordinarily broad field.
@@ -46,7 +49,7 @@ If you are particulary interested in exploitation, [Io][smash] is also quite goo
 There are also other wargames linked on the [Resources][rec] page.
 
 One of the best ways to learn any new skill is to collaborate with others. 
-To this effect, we host an [IRC][IRC_intro] channel for club members to discuss what they are working on or trying to learn. We are developing a tutorial to explain how to set up a persistent connection to IRC. In the meantime a not-so-beautiful web interface is also available [here][irc].
+To this effect, we host an [IRC][IRC_intro] channel and relayed [slack domain][slack] for club members to discuss what they are working on or trying to learn. We are developing a tutorial to explain how to set up a persistent connection to IRC. In the meantime a not-so-beautiful web interface is also available [here][irc].
 
 ## When you have questions
 First, [Google][goog] it.
