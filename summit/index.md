@@ -34,13 +34,10 @@ Hotel rooms will be provided to those that have to travel more than 45 minutes.
 * 9 AM
     * Breakfast
 * 10 AM 
-    * A talk from Potter
+    * Keynote
 * 11 AM 
     * Competition begins
 * 12 PM
     * Lunch will be provided
-* 5 PM
+* 6 PM
     * Competition ends, winner announced
-* 5:30 PM
-    * Dinner
-
