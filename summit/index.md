@@ -8,7 +8,7 @@ We are proud to announce the **Virginia Tech Cyber Security Club Summit for 2016
 
 # What is it?
 
-The Summit is a jeopardy style CTF competition put on by the Cyber Security Club at Virginia Tech.
+The Summit is a CTF competition put on by the Cyber Security Club at Virginia Tech and a networking opportunity for students interested in security.
 Teams and students will be invited to participate.  Any student is allowed to join.  If your school or club
 did not receive an invitation, please email <a href="mailto:officers@vtcsec.org">officers@vtcsec.org</a>.
 
@@ -23,11 +23,12 @@ in the following areas:
 * Forensics
 
 Diverse skill sets on teams will be helpful.  Challenges are designed to be difficult to be solved by one person alone.
+Team size will be limited. 
 
 # When and where is it?
 
 It will be hosted at Virginia Tech on **April 2nd**.  It will run all day.  Food and drink will be provided.
-Hotel rooms will be provided to those that have to travel more than 45 minutes.
+Hotel rooms will be provided to those that have to travel too far to leave in the morning, please request these directly by email as soon as possible.
 
 # Schedule
 
