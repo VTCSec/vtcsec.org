@@ -30,6 +30,10 @@ Team size will be limited.
 It will be hosted at Virginia Tech on **April 2nd**.  It will run all day.  Food and drink will be provided.
 Hotel rooms will be provided to those that have to travel too far to leave in the morning, please request these directly by email as soon as possible.
 
+# How do I sign up?
+
+Use [this form](https://docs.google.com/forms/d/1oYqpYmPcQnqUAs-KEcnq4qeep-48osqUIVRz7x0EPTY/viewform) to sign up.  The registration deadline is 3/30.
+
 # Schedule
 
 * 9 AM
