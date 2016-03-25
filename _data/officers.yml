@@ -1,12 +1,18 @@
 - nick: nluther
   name: Noah Luther
-  position: President
+  position: Outgoing President
 - nick: jpo
   name: Jean-Philippe Ouellet
-  position: Vice President
+  position: Outgoing Vice President
 - nick: marcusw
   name: Marcus Wanner
-  position: Treasurer
+  position: Outgoing Treasurer
+- name: Riley Cooper
+  position: Incoming President
+- name: Sam Hentschel
+  position: Incoming Vice President
+- name: David Gardner
+  position: Incoming Treasurer
 - nick: cadr
   name: Drew Dudash
   position: Cyber Summit Architect
