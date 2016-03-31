@@ -9,6 +9,19 @@ edit_link: true
 
 Resources for learning about computer security and related fields.
 
+## CTF
+  - <http://overthewire.org/wargames>
+  - <https://microcorruption.com>
+  - <http://smashthestack.org/>
+  - <https://picoctf.com/>
+  - <https://ctf.isis.poly.edu/>
+  - <http://shell-storm.org/repo/CTF/>
+  - <https://www.vulnhub.com/>
+
+## Reverse Engineering
+
+  - http://beginners.re/
+
 ## Crypto 
   - Implementation of attacks: <http://cryptopals.com/>
   - Cryptography Theory and Practice by Douglas Stinson
@@ -23,15 +36,6 @@ Resources for learning about computer security and related fields.
 
 ## Other talks
   - The Grugq - <http://www.youtube.com/watch?v=9XaYdCdwiWU>
-
-## CTF
-  - <http://overthewire.org/wargames>
-  - <https://microcorruption.com>
-  - <http://smashthestack.org/>
-  - <https://picoctf.com/>
-  - <https://ctf.isis.poly.edu/>
-  - <http://shell-storm.org/repo/CTF/>
-  - <https://www.vulnhub.com/>
 
 ## Unix Philosophy
   - The Cathedral and the Bazaar
