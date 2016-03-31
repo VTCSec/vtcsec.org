@@ -16,12 +16,10 @@ We have no formal prerequisites and have members from a number of different back
 
 *That being said.*
 More important than what knowledge you bring to your first meeting is your willingness to learn.
-We won't hold your hand and we expect you to be able to learn things independently.
-The more time you put in outside of club meetings the more proficient you will become in this field. 
-The more proficient you become the more fun you will have.
+The more time you spend independently educating yourself, the more proficient you will become in this field. 
 
 ## What do I have to do to join the club?
-VTCSec has no member list because we respect your privacy. All students and other interested parties are welcome. Join our mailing list to find out about meetings. Most active members also discuss security topics during the week using the [IRC][IRC_Intro] channel and relayed [slack domain][slack].
+Join our mailing list to find out about our weekly IRL meetings. VTCSec members and officers discuss security topics at all hours using the [IRC][irc] channel and relayed [slack domain][slack]. While VTCSec has no member list because we respect your privacy, we consider anyone who hangs out on irc or comes to meetings regularly a member. All students and other interested parties are welcome. 
 
 ## What topics are involved in cyber security?
 This is a tough question.
@@ -32,10 +30,13 @@ Read [Bruce Schneier's][schneier] commentary on the discipline. Read all of it, 
 I can't say it any better than Trail of Bits did [here][ctffg].
 
 ## Where to start learning?
+One of the best ways to learn any new skill is to collaborate with others. 
+To this effect, we host an [IRC][irc] channel and relayed [slack domain][slack] for club members to discuss what they are working on or trying to learn. Most club members connect to irc using a [shell server][shells] which hosts an [always][screen]-[on][tmux] [terminal-based IRC client][weechat]. We recommend that new members do the same, because setting up such a system is an effective introduction to a unix shell environment, which is essential for security research.
+
 Competency in programming is extremely helpful.
 Knowing the [C programming language][C], [Python][Py], and x86 assembly will help you to understand code that often shows up on screen at meetings.
 
-Having working knowledge of network protocols such as TCP/IP and HTTP never hurts. Read 'Request for Comments' such as the ones for [TCP][rfc793], [UDP][rfc768], and [IP][rfc791].
+Having working knowledge of basic networking concepts is very important for most attacks, and knowledge of systems such as TCP/IP and HTTP never hurts. Read 'Request for Comments' such as the ones for [TCP][rfc793], [UDP][rfc768], and [IP][rfc791].
 
 These are things that are impossible to teach in a single meeting, but there are many tutorials and explanations of these topics on the Internet that you will want to read to gain background knowledge.
 
@@ -47,9 +48,6 @@ Learn the skills needed to complete a few introductory wargames and you will hav
 I highly recommend you complete [Bandit][bandit] and then work on either [Natas][natas] or [Narnia][narnia].
 If you are particulary interested in exploitation, [Io][smash] is also quite good.
 There are also other wargames linked on the [Resources][rec] page.
-
-One of the best ways to learn any new skill is to collaborate with others. 
-To this effect, we host an [IRC][IRC_intro] channel and relayed [slack domain][slack] for club members to discuss what they are working on or trying to learn. We are developing a tutorial to explain how to set up a persistent connection to IRC. In the meantime a not-so-beautiful web interface is also available [here][irc].
 
 ## When you have questions
 First, [Google][goog] it.
@@ -74,4 +72,7 @@ You are always welcome to ask us questions on [IRC][irc].
 [Py]: http://learnpythonthehardway.org/book/
 [irc]: https://webchat.oftc.net/?channels=vtcsec
 [goog]: https://www.google.com
-[IRC_intro]: https://en.wikipedia.org/wiki/Internet_Relay_Chat
+[shells]: https://vtluug.org/wiki/Shell_account_tutorial
+[weechat]: https://weechat.org/
+[screen]: https://www.gnu.org/software/screen/
+[tmux]: https://tmux.github.io/
