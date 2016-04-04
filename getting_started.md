@@ -19,7 +19,7 @@ More important than what knowledge you bring to your first meeting is your willi
 The more time you spend independently educating yourself, the more proficient you will become in this field. 
 
 ## What do I have to do to join the club?
-Join our mailing list to find out about our weekly IRL meetings. VTCSec members and officers discuss security topics at all hours using the [IRC][irc] channel and relayed [slack domain][slack]. While VTCSec has no member list because we respect your privacy, we consider anyone who hangs out on irc or comes to meetings regularly a member. All students and other interested parties are welcome. 
+Join our mailing list to find out about our weekly IRL meetings. VTCSec members and officers discuss security topics at all hours using the [IRC][irc] channel. While VTCSec has no member list because we respect your privacy, we consider anyone who hangs out on irc or comes to meetings regularly a member. All students and other interested parties are welcome. 
 
 ## What topics are involved in cyber security?
 This is a tough question.
@@ -31,7 +31,7 @@ I can't say it any better than Trail of Bits did [here][ctffg].
 
 ## Where to start learning?
 One of the best ways to learn any new skill is to collaborate with others. 
-To this effect, we host an [IRC][irc] channel and relayed [slack domain][slack] for club members to discuss what they are working on or trying to learn. Most club members connect to irc using a [shell server][shells] which hosts an [always][screen]-[on][tmux] [terminal-based IRC client][weechat]. We recommend that new members do the same, because setting up such a system is an effective introduction to a unix shell environment, which is essential for security research.
+To this effect, we host an [IRC channel][irc] for club members to discuss what they are working on or trying to learn. Most club members connect to irc using a [shell server][shells] which hosts an [always][screen]-[on][tmux] [terminal-based IRC client][weechat]. We recommend that new members do the same, because setting up such a system is an effective introduction to a unix shell environment, which is essential for security research.
 
 Competency in programming is extremely helpful.
 Knowing the [C programming language][C], [Python][Py], and x86 assembly will help you to understand code that often shows up on screen at meetings.
@@ -58,7 +58,6 @@ If you don't know what you are looking for, try our [Resources][rec] page.
 You are always welcome to ask us questions on [IRC][irc].
 
 [ctffg]: https://trailofbits.github.io/ctf/
-[slack]: https://vtcsec.slack.com/signup
 [bandit]: http://overthewire.org/wargames/bandit/
 [natas]: http://overthewire.org/wargames/natas/
 [narnia]: http://overthewire.org/wargames/narnia/
