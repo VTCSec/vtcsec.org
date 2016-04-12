@@ -16,7 +16,8 @@ We have no formal prerequisites and have members from a number of different back
 
 *That being said.*
 More important than what knowledge you bring to your first meeting is your willingness to learn.
-The more time you spend independently educating yourself, the more proficient you will become in this field. 
+As is the case in most computer-related disciplines, it's not about how much you know, it's about how quickly you can learn.
+The more you do to independently educate yourself, the more proficient you will become. 
 
 ## What do I have to do to join the club?
 Join our mailing list to find out about our weekly IRL meetings. VTCSec members and officers discuss security topics at all hours using the [IRC][irc] channel. While VTCSec has no member list because we respect your privacy, we consider anyone who hangs out on irc or comes to meetings regularly a member. All students and other interested parties are welcome. 
