@@ -9,12 +9,11 @@ edit_link: true
 
 Resources for learning about computer security and related fields.
 
+
 ## Getting started with Linux
-What is Linux/Ubuntu/Fedora/Kali/other strange sounding thing? Here is you where answer that question and start using it yourself.  
   - Basic page for what Linux is <https://opensource.com/resources/what-is-linux>
 
 ## Getting SSH ability
-Need to use SSH for a CTF or something else? These programs/sites all will get you that in some way. 
   - Putty is a windows application that has some basic ssh and telnet capabilities. <www.putty.org>
   - For Windows 10 users, you don't have to bother with VirtualBox if you just want some basic linux capabilities. Windows has relased Ubuntu on Windows <https://msdn.microsoft.com/en-us/commandline/wsl/about>
   - Cygwin is a tool that runs Linux binaries that are recompiled for Windows. Has a better terminal interface than Bash on Ubuntu on Windows <https://www.cygwin.com/>
