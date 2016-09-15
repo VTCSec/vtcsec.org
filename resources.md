@@ -14,7 +14,7 @@ Resources for learning about computer security and related fields.
   - Basic page for what Linux is <https://opensource.com/resources/what-is-linux>
 
 ## Getting SSH ability
-  - Putty is a windows application that has some basic ssh and telnet capabilities. <www.putty.org>
+  - Putty is a windows application that has some basic ssh and telnet capabilities. <https://www.putty.org>
   - For Windows 10 users, you don't have to bother with VirtualBox if you just want some basic linux capabilities. Windows has relased Ubuntu on Windows <https://msdn.microsoft.com/en-us/commandline/wsl/about>
   - Cygwin is a tool that runs Linux binaries that are recompiled for Windows. Has a better terminal interface than Bash on Ubuntu on Windows <https://www.cygwin.com/>
   - VirtualBox is a tool that alows you to run an operating system on an operating system. It is great for testing programs, keeping projects separate, and not having to have multiple computers to do all your work. If you install a Linux image, then it will usually have SSH capabilities. <https://www.virtualbox.org/wiki/>
