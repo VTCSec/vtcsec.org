@@ -1,7 +1,7 @@
 ---
 What: Regular VTCSEC Meeting
 Where: TORG 1080
-When: September 29th, 2016 at 18:30
+When: 18:30
 ---
 
 We are still looking for a speaker, so if you have a project you've been working on,
