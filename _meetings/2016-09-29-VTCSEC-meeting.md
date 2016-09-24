@@ -1,6 +1,6 @@
 ---
 What: Regular VTCSEC Meeting
-Where: Torgersen 1080
+Where: TORG 1080
 When: September 29th, 2016 at 18:30
 ---
 
