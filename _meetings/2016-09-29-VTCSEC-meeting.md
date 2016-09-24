@@ -1,5 +1,5 @@
 ---
-what: Regular VTCSEC Meeting
+what: TBD Talk
 where: TORG 1080
 when: 18:30
 ---
