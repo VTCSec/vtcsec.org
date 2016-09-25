@@ -9,3 +9,5 @@ device that can emulate a magnetic stripe and show the PCB around and demo it.  
 and pin works and whether or not you can actually spoof it.  Maybe talk about Samsung/Google/Apple pay 
 technologies."
     -Conor
+
+![MagStripe](/images/magstripe.png)
