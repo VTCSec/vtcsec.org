@@ -9,6 +9,7 @@ Please use [email][officers@] as your first method of contact at the address bel
 ## Current Officers
 {% for officer in site.data.officers %}
 **{{ officer.position }}**
+    
     {{ officer.name }}
 {% endfor %}
 
