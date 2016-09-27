@@ -1,5 +1,5 @@
 ---
-what: Beginners' Meeting: Bandit Wargames 1
+what: Beginners' Meeting - Bandit Wargames 1
 ---
 
 We will be going over the exercises assigned in the last meeting.
