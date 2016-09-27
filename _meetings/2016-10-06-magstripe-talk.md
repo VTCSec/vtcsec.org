@@ -1,7 +1,5 @@
 ---
 what: How to Spoof Magstripe, Chip and Pin, and Other Payment Technologies
-when: 18:30
-where: TORG 1080
 ---
 by Conor Patrick
 
