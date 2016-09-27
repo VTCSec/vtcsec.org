@@ -1,5 +1,7 @@
 ---
 what: How to Spoof Magstripe, Chip and Pin, and Other Payment Technologies
+when: 18:30
+where: WLH 345
 ---
 by Conor Patrick
 
