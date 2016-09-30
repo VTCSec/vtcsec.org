@@ -5,4 +5,4 @@ where: TORG 1080
 ---
 by Dr. David Raymond
 
-"Introduction to Forensics" -Dr. Raymond
+"Introduction to Forensics"
