@@ -8,6 +8,5 @@ I'll bring a magstripe reader/writer that people can use. I'll go over my design
 device that can emulate a magnetic stripe and show the PCB around and demo it.  I'll talk about how chip 
 and pin works and whether or not you can actually spoof it.  Maybe talk about Samsung/Google/Apple pay 
 technologies."
-    -Conor
 
 ![MagStripe](/images/magstripe.png)
