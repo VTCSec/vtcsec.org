@@ -5,6 +5,10 @@ permalink: /sponsors/
 ---
 # Platinum
 
+![](/images/VirginiaTechLogo.gif)
+
+**Virginia Tech IT Security Office and Labs**
+
 # Gold
 
 # Silver
