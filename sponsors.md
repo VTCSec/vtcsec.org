@@ -3,15 +3,15 @@ layout: page
 title: Sponsors
 permalink: /sponsors/
 ---
-#Platinum
+# Platinum
 
-#Gold
+# Gold
 
-#Silver
+# Silver
 
-#Bronze
+# Bronze
 
-#Donations
+# Donations
 
 --------
 Donations ($100-$499)
