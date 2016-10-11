@@ -4,25 +4,25 @@ title: Sponsors
 permalink: /sponsors/
 ---
 # Platinum
----
+<hr>
 <a href="VT"><img src="http://www.vtcsec.org/images/VirginiaTechLogo.gif" align="center" height="200" width="240"></a>
 
 **Virginia Tech IT Security Office and Labs**
 
 # Gold
----
+<hr>
 
 # Silver
----
+<hr>
 
 # Bronze
----
+<hr>
 <a href="GM"><img src="http://www.vtcsec.org/images/sponsor-gm-tiny.gif" align="center" height="48" width="48"></a>
 
 ***General Motors***
 
 # Donations
----
+<hr>
 
 --------
 
