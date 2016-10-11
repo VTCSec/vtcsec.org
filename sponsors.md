@@ -3,19 +3,19 @@ layout: page
 title: Sponsors
 permalink: /sponsors/
 ---
-<h2 align="center">Platinum</h2><hr>
+<h2 align="center"><u>Platinum</u></h2><hr>
 <p align="center">
 <a href="VT"><img src="http://www.vtcsec.org/images/VirginiaTechLogo.gif" align="center" height="200" width="240"></a>
 <br>
 Virginia Tech IT Security Office and Labs</p>
-<h2 align="center">Gold</h2><hr>
-<h2 align="center">Silver</h2><hr>
-<h2 align="center">Bronze</h2><hr>
+<h2 align="center"><u>Gold</u></h2><hr>
+<h2 align="center"><u>Silver</u></h2><hr>
+<h2 align="center"><u>Bronze</u></h2><hr>
 <p align="center">
 <a href="GM"><img src="http://www.vtcsec.org/images/sponsor-gm-tiny.gif" align="center" height="48" width="48"></a>
 <br>
 General Motors</p>
-<h2 align="center">Donations</h2><hr>
+<h2 align="center"><u>Donations</u></h2><hr>
 --------
 
 Donations ($100-$499)
