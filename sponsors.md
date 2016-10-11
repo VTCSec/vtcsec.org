@@ -3,25 +3,26 @@ layout: page
 title: Sponsors
 permalink: /sponsors/
 ---
-# Platinum
+<h2 align="center">Platinum</h2>
 <hr>
+<p align="center">
 <a href="VT"><img src="http://www.vtcsec.org/images/VirginiaTechLogo.gif" align="center" height="200" width="240"></a>
+<br>
+Virginia Tech IT Security Office and Labs</p>
 
-**Virginia Tech IT Security Office and Labs**
-
-# Gold
+<h2 align="center">Gold</h2>
+<hr>
+<h2 align="center">Silver</h2>
 <hr>
 
-# Silver
+<h2 align="center">Bronze</h2>
 <hr>
-
-# Bronze
-<hr>
+<p align="center">
 <a href="GM"><img src="http://www.vtcsec.org/images/sponsor-gm-tiny.gif" align="center" height="48" width="48"></a>
+<br>
+General Motors</p>
 
-***General Motors***
-
-# Donations
+<h2 align="center">Donations</h2>
 <hr>
 
 --------
