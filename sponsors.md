@@ -17,7 +17,7 @@ permalink: /sponsors/
 
 # Bronze
 ---
-![](/images/sponsor-gm-tiny.gif)
+<a href="url"><img src="vtcsec.org/images/sponsor-gm-tiny.gif" align="center" height="30" width="30"></a>
 
 ***General Motors***
 
