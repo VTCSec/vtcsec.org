@@ -5,7 +5,7 @@ permalink: /sponsors/
 ---
 # Platinum
 ---
-<a href="VT"><img src="http://www.vtcsec.org/images/VirginiaTechLogo.gif" align="center" height="48" width="60"></a>
+<a href="VT"><img src="http://www.vtcsec.org/images/VirginiaTechLogo.gif" align="center" height="100" width="120"></a>
 
 **Virginia Tech IT Security Office and Labs**
 
@@ -17,7 +17,7 @@ permalink: /sponsors/
 
 # Bronze
 ---
-<a href="GM"><img src="http://www.vtcsec.org/images/sponsor-gm-tiny.gif" align="center" height="30" width="30"></a>
+<a href="GM"><img src="http://www.vtcsec.org/images/sponsor-gm-tiny.gif" align="center" height="48" width="48"></a>
 
 ***General Motors***
 
