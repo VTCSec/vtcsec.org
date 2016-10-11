@@ -5,7 +5,7 @@ permalink: /sponsors/
 ---
 # Platinum
 ---
-<a href="VT"><img src="http://www.vtcsec.org/images/VirginiaTechLogo.gif" align="center" height="100" width="120"></a>
+<a href="VT"><img src="http://www.vtcsec.org/images/VirginiaTechLogo.gif" align="center" height="200" width="240"></a>
 
 **Virginia Tech IT Security Office and Labs**
 
