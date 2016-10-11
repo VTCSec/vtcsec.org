@@ -17,6 +17,9 @@ permalink: /sponsors/
 
 # Bronze
 ---
+![](/images/sponsor-gm-tiny.gif)
+
+***General Motors***
 
 # Donations
 ---
