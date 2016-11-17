@@ -1,0 +1,6 @@
+---
+what: Mirai Botnet: Background and source analysis
+---
+by Zachary Burch
+
+I will be presenting on the record setting DDos against KrebsOnSecurity, how that led to the release of the source code of the Mirai botnet, the effects that release has had, and then I will conclude by going through segments of the Mirai sourcecode and highlighting a few points about it.
