@@ -1,6 +1,5 @@
 ---
 what: VT Wireless Network Authentication
-when: September 29, 2016
 ---
 by Zachary Burch
 
