@@ -1,5 +1,6 @@
 ---
 what: How to Spoof Magstripe, Chip and Pin, and Other Payment Technologies
+when: October 6, 2016
 ---
 by Conor Patrick
 
