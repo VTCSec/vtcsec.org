@@ -1,6 +1,7 @@
 ---
 what: "First Spring Meeting"
 where: "TORG 1010"
+when: "6:00 p.m."
 date: 2017-01-26 18:00:00
 ---
 
