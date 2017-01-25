@@ -1,7 +1,7 @@
 ---
 what: "First Spring Meeting"
 where: "TORG 1010"
-when: "January 26, 6 p.m."
+date: 2017-01-26 18:00:00
 ---
 
 Hey everyone! Welcome back to Tech, we hope you had a wonderful break. This semester all meetings will be held in Torgersen 1010. This first meeting will be an introduction and review, so if you are new or interested feel comfortable to stop by and see what all the fuss is about. 
