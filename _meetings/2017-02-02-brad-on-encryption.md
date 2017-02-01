@@ -1,8 +1,8 @@
-----
+---
 what: "Speaker: Brad Tilley on Encryption"
 when: "18:30"
 where: "TORG 1010"
-----
+---
 
 Brad Tilley has more than 15 years of experience with information systems and technology. He has worked in
 systems programming, IT management and IT security. He has placed highly in the DEFCON "Crack me if you can" 
