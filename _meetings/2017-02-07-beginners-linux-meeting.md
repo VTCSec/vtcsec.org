@@ -7,10 +7,10 @@ where: "TORG 1010"
 Before this meeting, we ask that everyone planning on coming to have the
 following things done. 
 
- * Download VirtualBox and the Guest Additions package. 
- * Download the Kali Linux Virtual Box Image. 
+ * Download VirtualBox and the VirtualBox Extension Pack. <a href="https://www.virtualbox.org/wiki/Downloads"> Download Page <a> 
+ * Download the Kali Linux Virtual Box Image. <a href="https://www.offensive-security.com/kali-linux-vmware-virtualbox-image-download/"> Download Page <a> CHOOSE THE VIRTUAL BOX TAB, it defaults to VMWare. You most likely want 64bit VBox.  
  * If you are feeling excited, install the image to VirtualBox and play around. 
- * Read some about the basics of virtual machines (VMs).
+ * Read some about the basics of virtual machines (VMs). Start <a href="http://www.security-faqs.com/the-security-benefits-of-using-a-virtual-machine.html"> here <a> if you don't have a place to start.  
 
 These files are quite large and will take a long time to download! If you
 do not download them before the meeting, then we will be unable to help you
