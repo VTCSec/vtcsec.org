@@ -5,10 +5,9 @@ permalink: /summit/
 edit_link: true
 ---
 
-# Summit
-We are proud to announce the **Virginia Tech Cyber Security Club Summit for 2017**.
+# Virginia Tech Cyber Security Club Summit 2017
 
-# What is it?
+## What is it?
 
 The Summit is a CTF competition put on by the Cyber Security Club at Virginia Tech and a networking opportunity for students interested in security.
 Teams and students will be invited to participate.  Any student is allowed to join.  If your school or club
@@ -30,19 +29,19 @@ in the following areas:
 Diverse skill sets on teams will be helpful.  Challenges are designed to be difficult to be solved by one person alone.
 Team size will be limited. 
 
-# When and where is it?
+## When and where is it?
 
 It will be hosted at Virginia Tech on **March 25th**.  It will run all day.  Food and drink will be provided.
 Hotel rooms will be provided to those that have to travel too far to leave in the morning, please request these directly by email as soon as possible.
 
-# How do I sign up?
+## How do I sign up?
 
 Use [this form](https://goo.gl/forms/s87aDZc7ULibEvJI2) to sign up.  The registration deadline is **March 18th**; however, the longer you wait, the harder it will be for us to get lodging and food.
 
-# How can I help? 
+## How can I help? 
 Use [this form](https://goo.gl/forms/BrcxjnLMWVEHa7df2) to sign up to help make boxen for the competition. The deadline to sign up to contribute is **March 4th**. If you want to make boxen but need advice, talk to the officers at one of the meetings. 
 
-# Schedule
+## Schedule
 
 {:.mbtablestyle}
 |  Time           |  Event                      |  Notes                                                       |
