@@ -1,5 +1,8 @@
 ---
 layout: page
+title: Summit
+permalink: /summit/
+edit_link: true
 ---
 
 # Summit
