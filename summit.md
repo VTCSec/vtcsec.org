@@ -2,8 +2,7 @@
 layout: page
 ---
 
-# Virginia Tech Cyber Security Club Summit
-
+# Summit
 We are proud to announce the **Virginia Tech Cyber Security Club Summit for 2017**.
 
 # What is it?
