@@ -37,6 +37,9 @@ Hotel rooms will be provided to those that have to travel too far to leave in th
 
 Use [this form](https://goo.gl/forms/s87aDZc7ULibEvJI2) to sign up.  The registration deadline is **March 18th**; however, the longer you wait, the harder it will be for us to get lodging and food.
 
+# How can I help? 
+Use [this form](https://goo.gl/forms/BrcxjnLMWVEHa7df2) to sign up to help make boxen for the competition. The deadline to sign up to contribute is **March 4th**. If you want to make boxen but need advice, talk to the officers at one of the meetings. 
+
 # Schedule
 
 {:.mbtablestyle}
