@@ -1,8 +1,6 @@
 ---
 layout: page
 title: Summit
-permalink: /summit/
-edit_link: true
 ---
 
 # Virginia Tech Cyber Security Club Summit 2017
