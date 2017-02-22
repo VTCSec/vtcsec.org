@@ -201,3 +201,11 @@ pre {
     height: 24px;
     vertical-align: middle;
 }
+
+.table {
+    border-collapse: collapse;
+    
+    > table, td, th {
+        border: 1px solid black;   
+    }
+}
