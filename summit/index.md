@@ -4,7 +4,7 @@ layout: page
 
 # Virginia Tech Cyber Security Club Summit
 
-We are proud to announce the **Virginia Tech Cyber Security Club Summit for 2016**.
+We are proud to announce the **Virginia Tech Cyber Security Club Summit for 2017**.
 
 # What is it?
 
@@ -21,28 +21,26 @@ in the following areas:
 * Networking
 * Web applications
 * Forensics
+* Reversing
+* Cryptography
+* Operational Security
 
 Diverse skill sets on teams will be helpful.  Challenges are designed to be difficult to be solved by one person alone.
 Team size will be limited. 
 
 # When and where is it?
 
-It will be hosted at Virginia Tech on **April 2nd**.  It will run all day.  Food and drink will be provided.
+It will be hosted at Virginia Tech on **March 25th**.  It will run all day.  Food and drink will be provided.
 Hotel rooms will be provided to those that have to travel too far to leave in the morning, please request these directly by email as soon as possible.
 
 # How do I sign up?
 
-Use [this form](https://docs.google.com/forms/d/1oYqpYmPcQnqUAs-KEcnq4qeep-48osqUIVRz7x0EPTY/viewform) to sign up.  The registration deadline is 3/30.
+Use [this form](https://goo.gl/forms/s87aDZc7ULibEvJI2) to sign up.  The registration deadline is **March 18th**; however, the longer you wait, the harder it will be for us to get lodging and food.
 
 # Schedule
 
-* 9 AM
-    * Breakfast
-* 10 AM 
-    * Keynote
-* 11 AM 
-    * Competition begins
-* 12 PM
-    * Lunch will be provided
-* 6 PM
-    * Competition ends, winner announced
+|  Time           |  Event                      |  Notes                                                       |
+|:--------------- |:--------------------------- |:------------------------------------------------------------ |
+| 0900 - 1000     | Speaker (**Bruce Potter**)  | We will provide doughnuts and coffee before and after.       |
+| 1000 - 1700     | Capture the Flag!           |                                                              |
+| 1700 - whenever | Unofficial Social Dinner    | Usually after VTCSEC events we go out and get dinner; come with, have fun, be social (for once). |
