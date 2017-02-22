@@ -44,3 +44,4 @@ Use [this form](https://goo.gl/forms/s87aDZc7ULibEvJI2) to sign up.  The registr
 | 0900 - 1000     | Speaker (**Bruce Potter**)  | We will provide doughnuts and coffee before and after.       |
 | 1000 - 1700     | Capture the Flag!           |                                                              |
 | 1700 - whenever | Unofficial Social Dinner    | Usually after VTCSEC events we go out and get dinner; come with, have fun, be social (for once). |
+{:.table}
