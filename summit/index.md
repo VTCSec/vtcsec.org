@@ -1,4 +1,5 @@
 ---
+title: Summit
 layout: page
 ---
 
