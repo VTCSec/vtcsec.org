@@ -7,7 +7,7 @@ permalink: /sponsors/
 <p align="center">
 <a href="VT"><img src="http://www.vtcsec.org/images/VirginiaTechLogo.gif" align="center" height="200" width="240"></a>
 <br>
-<a href="TriplePoint"><img src="http://www.vtcsec.org/images/TriplePointLogo.jpg" align="center" height="221" width="1366"></a>
+<a href="TriplePoint"><img src="http://www.vtcsec.org/images/TriplePointLogo.jpg" align="center" height="111" width="683"></a>
 <br>
 Virginia Tech IT Security Office and Labs</p>
 <hr>
