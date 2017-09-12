@@ -22,6 +22,8 @@ General Motors</p>
 <h2 align="center"><u>Donations</u></h2><hr>
 --------
 
+The goal of our meetings is educational, not promotional. Therefore, we allow company representatives to give technical talks and/or workshops on the condition that there is no recruiting. Slides and/or notes will be emailed to the officers ahead of time to validate the presentation.
+
 Donations ($100-$499)
 
 - Mention at bottom of Sponsor's Page and Slides
@@ -29,6 +31,7 @@ Donations ($100-$499)
 Bronze ($500-$999)
 
 - Small Logo on Sponsor's Page and Slides
+- Ability have time at end of Technical Talks for a bit of advertising and recruiting
 - Small Swag
     - Stickers, Keychains, Pens, etc.
 
@@ -39,8 +42,6 @@ Silver ($1000-$2999)
 
 Gold ($3000-$4999)
 
-- Ability to give Technical Talks during regular VTCSEC meetings
-    - Includes time at end for a bit of advertising and recruiting
 - Large Swag
     - T-shirts, Mugs, Software, etc.
 - Advertise Software
