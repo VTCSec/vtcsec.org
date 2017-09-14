@@ -1,6 +1,6 @@
 ---
 what: "First Fall Meeting"
-where: "TORG 1040"
+where: "TORG 1060"
 when: "18:30"
 date: 2017-09-14 18:30:00
 ---
