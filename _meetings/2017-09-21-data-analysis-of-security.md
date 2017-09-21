@@ -1,6 +1,6 @@
 ---
 what: "Data Analysis of Security"
-where: "TORG 1060"
+where: "TORG 1040"
 when: "18:30"
 date: 2017-09-21 18:30:00
 ---
