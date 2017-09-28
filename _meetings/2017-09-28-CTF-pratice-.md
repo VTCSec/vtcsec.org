@@ -1,6 +1,6 @@
 ---
 what: "CTF Practice"
-where: "TORG 1020"
+where: "TORG 1040"
 when: "18:30"
 date: 2017-09-28 18:30:00
 ---
