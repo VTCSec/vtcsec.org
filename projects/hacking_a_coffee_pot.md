@@ -15,7 +15,7 @@ We are doing this because we want to get hands on experience
 of doing network analysis, reverse engineering, and penetration testing.
 
 Right now we are getting network captures of the device. Specifically,
-we will record all traffic during the initial set up of the device and 
+we will record all traffic during the initial set up of the device and
 during it's normal operation.  Traffic will be recorded in pcap's and in
 an HTTP proxy.
 
@@ -23,7 +23,7 @@ After all of the network activity has been sufficiently captured, then
 the analysis can take many different routes.  We will try the following:
 
 * Grab an update over the wire.
-* Reverse engineer the binary to try to find privilidged information.
+* Reverse engineer the binary to try to find privileged information.
 * Identify identifiers and API's and try spoofing them for the coffee pot and cloud service
 * Fuzz inputs to coffee pot
 * Reverse engineer smart phone app
@@ -45,6 +45,3 @@ a HTTP proxy to get more detailed logs.
 
 Check out our [github repo](https://github.com/vtcsec/coffeepot) to see up to date work.
 A USB WiFi card, similar to an ALFA, will be used to set up a network.
-
-
-
