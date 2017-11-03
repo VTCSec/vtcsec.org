@@ -11,10 +11,11 @@ permalink: /sponsors/
 <br>
 Virginia Tech IT Security Office and Labs</p>
 <hr>
-<h2 align="center"><u>Gold</u></h2><hr>
+<h2 align="center"><u>Gold</u></h2>
 <p align="center">
 <a href="http://www.eastman.com/Pages/Home.aspx" target="_blank"><img src="http://vtcsec.org/images/500px-Eastman_Chemical_Company_logo.svg.png" alt="Eastman Chemical Company Logo" align="center" width="340"></a>
 <br>
+<hr>
 Eastman Chemical Company</p>
 <h2 align="center"><u>Silver</u></h2><hr>
 <h2 align="center"><u>Bronze</u></h2>
