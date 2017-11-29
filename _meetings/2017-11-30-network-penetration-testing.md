@@ -11,7 +11,7 @@ At this meeting, we will be preforming a workshop on network penetration testing
 
 2. Use VirtualBox's "import appliance" feature to import the VM. we have only tested this image with VirtualBox, so it may not work well with other virtualization platforms.
 
-3. Set the VirtualBox VM's network adapter to "host-only." The VM should get an IP address from DHCP, but if you want to be sure that it'll work, make sure the host-only adapter is set to use the subnet 192.168.56.0/24 (this should be the default for the first host-only adapter, aka vboxnet0). If you don't have a host-only network yet, you should be able to create one with the default settings and it'll work fine with this VM. (If you aren't sure how to create a host-only network, this documentation should help you:<a href="https://www.virtualbox.org/manual/ch06.html#network_hostonly" target="_blank">documentation</a> 
+3. Set the VirtualBox VM's network adapter to "host-only." The VM should get an IP address from DHCP, but if you want to be sure that it'll work, make sure the host-only adapter is set to use the subnet 192.168.56.0/24 (this should be the default for the first host-only adapter, aka vboxnet0). If you don't have a host-only network yet, you should be able to create one with the default settings and it'll work fine with this VM. (If you aren't sure how to create a host-only network, this documentation should help you: <a href="https://www.virtualbox.org/manual/ch06.html#network_hostonly" target="_blank">documentation</a> 
 
 4. Make sure you also have a Kali Linux VM created and that you can place it on the host-only network as well.
 
