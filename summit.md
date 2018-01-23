@@ -23,25 +23,17 @@ in the following areas:
 * Operational Security
 
 Diverse skill sets on teams will be helpful.  Challenges are designed to be difficult to be solved by one person alone.
-Team size will be limited. 
+Team size will be limited 5 members this year, multiple teams per school can particiapte.  
 
 ## When and where is it?
 
-It will be hosted at Virginia Tech on **March 17th**.  It will run all day.  Food and drink will be provided.
-Hotel rooms will be provided to those that have to travel too far to leave in the morning, please request these directly by email as soon as possible.
+It will be hosted at Virginia Tech on **March 17th** at Room 110 A&B in the New Classroom Building. Note - the parking lot next to NCB is open to everyone on Saturdays.   
+
+It will run all day.  Food and drink will be provided. Hotel rooms will be provided to those that have to travel too far to leave in the morning, please request these directly by email as soon as possible.
 
 ## How do I sign up?
 
-Use [this form](https://goo.gl/forms/s87aDZc7ULibEvJI2) to sign up.  The registration deadline is **March 18th**; however, the longer you wait, the harder it will be for us to get lodging and food.
+Use [this form](https://goo.gl/forms/9FsVnZ1vHXzPcs4j2) to sign up.  The registration deadline is **March 8th** if you want a hotel room and **March 14th** otherwise. The sooner the better. 
 
 ## How can I help? 
-Use [this form](https://goo.gl/forms/BrcxjnLMWVEHa7df2) to sign up to help make boxen for the competition. The deadline to sign up to contribute is **March 4th**. If you want to make boxen but need advice, talk to the officers at one of the meetings. 
-
-## Schedule
-
-{:.mbtablestyle}
-|  Time           |  Event                      |  Notes                                                       |
-| :--------------- | :--------------------------- | :------------------------------------------------------------ |
-| 0900 - 1000     | Speaker (**TBA**)           | We will provide doughnuts and coffee before and after.       |
-| 1000 - 1700     | Capture the Flag!           |                                                              |
-| 1700 - whenever | Unofficial Social Dinner    | Usually after VTCSEC events we go out and get dinner; come with, have fun, be social (for once). |
+Talk to VTCSEC officers in person at a meeting (or by email)! We are always glad to get help.  
