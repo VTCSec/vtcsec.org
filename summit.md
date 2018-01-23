@@ -27,7 +27,7 @@ Team size will be limited.
 
 ## When and where is it?
 
-It will be hosted at Virginia Tech on **March 25th**.  It will run all day.  Food and drink will be provided.
+It will be hosted at Virginia Tech on **March 17th**.  It will run all day.  Food and drink will be provided.
 Hotel rooms will be provided to those that have to travel too far to leave in the morning, please request these directly by email as soon as possible.
 
 ## How do I sign up?
@@ -42,6 +42,6 @@ Use [this form](https://goo.gl/forms/BrcxjnLMWVEHa7df2) to sign up to help make 
 {:.mbtablestyle}
 |  Time           |  Event                      |  Notes                                                       |
 | :--------------- | :--------------------------- | :------------------------------------------------------------ |
-| 0900 - 1000     | Speaker (**Bruce Potter**)  | We will provide doughnuts and coffee before and after.       |
+| 0900 - 1000     | Speaker (**TBA**)           | We will provide doughnuts and coffee before and after.       |
 | 1000 - 1700     | Capture the Flag!           |                                                              |
 | 1700 - whenever | Unofficial Social Dinner    | Usually after VTCSEC events we go out and get dinner; come with, have fun, be social (for once). |
