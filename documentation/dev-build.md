@@ -1,7 +1,7 @@
 # How To Help:
 
 So, you have poked around in the GitHub and you found the section that talks
-about how to help VTCSEC with the website development. Great! You just need to
+about how to help VTCSEC with the website development. Great! You just need to properly [configure](https://help.github.com/articles/set-up-git/) your [git](https://git-scm.com/)
  do the following to get caught up and a few commands to start contributing.
 1. Watch the video playlist [here](https://youtu.be/8oRjP8yj2Wo). This will help
 you git goood and git, and help you improve on any skills you already have!
