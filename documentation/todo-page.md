@@ -10,3 +10,5 @@
 5. Fill Tabs.
 
 6. Profit?
+
+7. Remove Email Link.
