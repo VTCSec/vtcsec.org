@@ -12,15 +12,17 @@ so by all means make a pull request, or contact people.
 
 4.  To update the React Bootstrap please refer to [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
-
+5. If you find a vulnerability in something I wrote, please patch it immediately. I do not want anything that could cause a problem in the future so just submit a pull request **ASAP**.
 # Table Of Contents:
 
-1. [How To Update](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md)
+1. [How To Help](documentation/dev-build.md)
 
-2. [Style Guide](documentation/todo-page.md)
+2. [How To Update](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md)
 
-3. [Main HTML Index](public/index.html)
+3. [Style Guide](documentation/todo-page.md)
 
-4. [Contributors](documentation/contributors.md)
+4. [Main HTML Index](public/index.html)
 
-5. [To-Do Page](documentation/todo-page.md)
+5. [Contributors](documentation/contributors.md)
+
+6. [To-Do Page](documentation/todo-page.md)
