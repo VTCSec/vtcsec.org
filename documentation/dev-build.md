@@ -62,4 +62,4 @@ git pull && git push
 
 10. Congrats, you have complete your first push in 10 Steps! If you run into any
  problems or you do not understand something, contact a web-dev for VTCSEC on
- IRC or email.
+ [IRC](https://webchat.oftc.net/?channels=vtcsec) or email.
