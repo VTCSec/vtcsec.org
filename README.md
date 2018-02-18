@@ -21,6 +21,6 @@ so by all means make a pull request, or contact people.
 
 3. [Main HTML Index](public/index.html)
 
-4. [Contributors](documentation/contributors)
+4. [Contributors](documentation/contributors.md)
 
-5. [To Do Page](documentation/todo-page.md)
+5. [To-Do Page](documentation/todo-page.md)
