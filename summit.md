@@ -37,7 +37,7 @@ Teams will be registered at the event, only individuals need to register below.
 
 ## How do I sign up?
 
-Use [this form](https://goo.gl/forms/9FsVnZ1vHXzPcs4j2) to sign up.  The registration deadline is **March 8th** if you want a hotel room and **March 14th** otherwise. The sooner the better. 
+Use [this form](https://goo.gl/forms/9FsVnZ1vHXzPcs4j2) to sign up.  The registration deadline is **March 3rd** if you want a hotel room and **March 14th** otherwise. The sooner the better. 
 Only individuals need to sign up for now, team registration will happen at the event.
 
 ## How can I help? 
