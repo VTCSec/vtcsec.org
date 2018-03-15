@@ -26,7 +26,7 @@ Diverse skill sets on teams will be helpful.  Challenges are designed to be diff
 
 ## When and where is it?
 
-It will be hosted at Virginia Tech on **March 17th** at Room 110 A&B in the New Classroom Building. Note - the parking lot next to NCB is open to everyone on Saturdays.   
+It will be hosted at Virginia Tech on **March 17th** at Room 104B in Surge Space Building. Note - Parking will be free on the weekend, there are lots near by at the Lower and Upper Stranger Lots (outside of Surge), Perry Street Lot 3 (outside of Goodwin), and Perry Street Lot 1 (across from NCB)
 
 It will run all day.  Food and drink will be provided. Hotel rooms will be provided to those that have to travel too far to leave in the morning, please request these directly by email as soon as possible.
 
