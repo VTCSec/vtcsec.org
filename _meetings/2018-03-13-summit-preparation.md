@@ -1,6 +1,6 @@
 ---
 
-what: "SummitPreparation"
+what: "Summit Preparation"
 
 where: "TORG 1020"
 
