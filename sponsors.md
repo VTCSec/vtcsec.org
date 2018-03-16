@@ -18,6 +18,11 @@ Virginia Tech IT Security Office and Labs</p>
 Eastman Chemical Company</p>
 <hr>
 <h2 align="center"><u>Silver</u></h2><hr>
+<p align="center">
+<a href="https://www.boozallen.com/" target="_blank"><img src="http://vtcsec.org/images/BAHLogo.png" alt="Booze Allen Hamilton Logo" align="center" width="340"></a>
+<br>
+Booze Allen Hamilton</p>
+<hr>
 <h2 align="center"><u>Bronze</u></h2>
 <p align="center">
 <a href="https://www.gm.com/" target="_blank"><img src="http://www.vtcsec.org/images/sponsor-gm-tiny.gif" alt="General Motors Logo" align="center" height="48" width="48"></a>
