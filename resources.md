@@ -9,6 +9,20 @@ edit_link: true
 
 Resources for learning about computer security and related fields.
 
+## Beginner Meetings Slides
+  - Intro: <https://docs.google.com/a/vt.edu/presentation/d/1E89XC9h7SxWD0MEYdnnVdTgQvNiG9xqbS_1vJrqkX4A/edit?usp=sharing>
+  - Reversing 1: <https://docs.google.com/a/vt.edu/presentation/d/1hF7ZdQhsA46syobQ9VIx19I-gv9UQlP0-CeN1_L6iwE/edit?usp=sharing>
+  - Reversing 2: <https://docs.google.com/a/vt.edu/presentation/d/19dq9ibViYF0faeryQST8C2mhUOrHI4GHtNIVpvJV6lE/edit?usp=sharing>
+  - Exploit 1: <https://docs.google.com/a/vt.edu/presentation/d/1gQHZbUKH_pGjNj8QgFKP-zOzMx_NEBpueanX3UXci4s/edit?usp=sharing>
+  - Exploit 2: <https://docs.google.com/a/vt.edu/presentation/d/1qyXPM2gzihQRfiHXYPlMXwZpPRfIBcwAVUQGVwKWJvQ/edit?usp=sharing>
+  - Networking: <https://docs.google.com/a/vt.edu/presentation/d/1swooWc958phnSQZhnFoL_8Qw3uB5q-bJ4JROO4zFBW4/edit?usp=sharing>
+  - Symmetric Crypto: <https://docs.google.com/a/vt.edu/presentation/d/1GGbVQf1rpAthAkv3uWpsswcS1uiniyfl6HxUOj1hIRk/edit?usp=sharing>
+  - Asymmetric Crypto: <https://docs.google.com/a/vt.edu/presentation/d/1crcgN_OqYaq3n-xSyeZ4SdMsTSLxs7RpvAvoZGupP1k/edit?usp=sharing>
+  - Forensics: <https://docs.google.com/presentation/d/18XytrAuhUo0tP9C_Z58th35dTY4uLQ5CUT3aO-YgsH8/edit?usp=sharing>
+  - Malware: <https://docs.google.com/presentation/d/1QR__nTeptjLRSmBNtiCU4dwLWTcFbzPWxISIBSu-i40/edit?usp=sharing>
+  - Pentesting: <https://docs.google.com/presentation/d/17Xl1WAlx5lkXBSR16IJl_iC3gppYuxyVm5fJJbC-tNc/edit?usp=sharing>
+
+
 
 ## Getting started with Linux
   - Basic page for what Linux is <https://opensource.com/resources/what-is-linux>
