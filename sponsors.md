@@ -29,7 +29,7 @@ Booze Allen Hamilton</p>
 <h2 align="center"><u>Donations</u></h2><hr>
 --------
 
-The goal of our meetings is educational, not promotional. Therefore, we allow company representatives to give technical talks and/or workshops on the condition that there is no recruiting. We will allow recruiting as long as a company is a bronze level sponsor or higher. Slides and/or notes will be emailed to the officers ahead of time to validate the presentation.
+The goal of our meetings is educational, not promotional. Therefore, we allow company representatives to give technical talks and/or workshops on the condition that there is no recruiting. We will allow recruiting as long as a company is a bronze level sponsor or higher. Each level includes the benefits of the level above it in this list.
 
 Donations ($100-$499)
 
