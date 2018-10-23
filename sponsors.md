@@ -6,7 +6,7 @@ permalink: /sponsors/
 <h2 align="center"><u>Platinum</u></h2>
 <p align="center">
 <a href="https://vt.edu/" target="_blank"><img src="http://www.vtcsec.org/images/VirginiaTechLogo.gif" alt="Virginia Tech Logo" align="center" height="200" width="240"></a>
-Virginia Tech IT Security Office and Labs
+<br>Virginia Tech IT Security Office and Labs
 <br>
 <a href="https://www.triplepointsecurity.com/" target="_blank"><img src="http://www.vtcsec.org/images/TriplePointLogo.jpg" alt="Triple Point Security Logo" align="center" height="55" width="340"></a>
 <br>
