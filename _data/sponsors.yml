@@ -1,9 +1,9 @@
-- name: General Electric
-  url: https://www.ge.com/
-  slug: ge
-- name: GM Foundation
-  url: https://www.gm.com/
-  slug: gm
 - name: Triple Point Security
   url: http://www.triplepointsecurity.com/
   slug: tps
+- name: Eastman Chemical
+  url: http://www.eastman.com/
+  slug: ec
+- name: Booz Allen Hamilton
+  url: http://bah.com/
+  slug: bah
