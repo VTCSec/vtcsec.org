@@ -1,12 +1,8 @@
-- name: Zachary Burch (zchryb)
-  position: President
-- name: Hithesh Peddamekala (hitp98)
-  position: Vice President
 - name: Mark Carman (mcarman8)
+  position: President
+- name: Nick Herman (nrh)
+  position: Vice President
+- name: Tom Conroy (tconroy)
   position: Treasurer
-- name: Zachary Burch (zchryb), Hithesh Peddamekala (hitp98) & Aaron Brown (dabrowndev)
-  position: Website Administrator
-- name: Riley Cooper (cooperra)
-  position: Beginner Meeting Coordinator
-- name: Andy Pham (andy42)
-  position: CTF Team Coordinator
+- name: Matthew Chorney (chorneym)
+  position: Beginner Meeting King
