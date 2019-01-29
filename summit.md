@@ -3,6 +3,8 @@ layout: page
 title: Summit
 ---
 
+## Sign up <a href="https://goo.gl/forms/5AM9KMOAKoDOsVXF2">here</a>.
+
 ## What is it?
 
 The Summit is a CTF competition put on by the Cyber Security Club at Virginia Tech and a networking opportunity for students interested in security.
@@ -37,7 +39,7 @@ Teams will be registered at the event, only individuals need to register below.
 
 ## How do I sign up?
 
-The deadline for signups has passed. Hopefully we will see you next year!
+Go to the signup page <a href="https://goo.gl/forms/5AM9KMOAKoDOsVXF2">here</a>.
 
 ## How can I help? 
 Talk to VTCSEC officers in person at a meeting (or by email)! We are always glad to get help.  
