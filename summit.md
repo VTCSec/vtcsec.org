@@ -3,7 +3,7 @@ layout: page
 title: Summit
 ---
 
-## Sign up <a href="https://goo.gl/forms/5AM9KMOAKoDOsVXF2">here</a>.
+## Sign up <a href="https://goo.gl/forms/5AM9KMOAKoDOsVXF2">here</a>
 
 ## What is it?
 
@@ -28,14 +28,13 @@ Diverse skill sets on teams will be helpful.  Challenges are designed to be diff
 
 ## When and where is it?
 
-It will be hosted at Virginia Tech on **March 17th** at Room 104B in Surge Space Building. Note - Parking will be free on the weekend, there are lots near by at the Lower and Upper Stranger Lots (outside of Surge), Perry Street Lot 3 (outside of Goodwin), and Perry Street Lot 1 (across from NCB)
+It will be hosted at Virginia Tech on **March 23rd** at Room 320 in New Classroom Building. Note - Parking will be free on the weekend, there are lots near by at the Perry Street Lot and Garage.
 
 It will run all day.  Food and drink will be provided. Hotel rooms will be provided to those that have to travel too far to leave in the morning, please request these directly by email as soon as possible.
 
 ## What are the team rules?
 
-Teams will have a maximum of 5 members. Teams do not need to be all from one school, and each school may have multiple teams.
-Teams will be registered at the event, only individuals need to register below.
+Teams will have a maximum of 5 members. Teams can register at the event, and do not need to all be from one school.
 
 ## How do I sign up?
 
