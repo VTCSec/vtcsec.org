@@ -2,7 +2,7 @@
 layout: page
 title: Getting Started
 permalink: /resources/getting-started.html
-edit_link: true
+edit_link: false
 ---
 
 If you're on this page I'm going to assume that you are new to the Cyber Security Club.
