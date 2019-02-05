@@ -33,7 +33,7 @@
           {% for sponsor in site.data.sponsors %}
           <li>
             <a href="{{ sponsor.url }}">
-              <img src="/images/sponsor-{{ sponsor.slug }}-tiny.gif" />
+              <img src="/images/sponsor-{{ sponsor.slug }}-tiny.gif" alt="{{ sponsor.name }} width="30" height="30" />
               <span class="company">{{ sponsor.name }}</span>
             </a>
           </li>
