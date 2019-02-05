@@ -14,13 +14,17 @@ Please use [email][officers@] as your first method of contact at the address bel
 ## Email
 [officers@vtcsec.org][officers@]
 
-## IRC
-[#vtcsec][webchat] on [OFTC][oftc]
-
 ## Google Group
 [cybersecurity-g@vt.edu][google group]
+
+## Discord
+[Invite Link][invite link] - Must join the club on GobblerConnect first!
+
+## IRC
+[#vtcsec][webchat] on [OFTC][oftc]
 
 [webchat]: https://webchat.oftc.net/?channels=vtcsec
 [oftc]: http://www.oftc.net/
 [officers@]: mailto:officers@vtcsec.org
 [google group]: https://groups.google.com/a/vt.edu/forum/#!forum/cybersecurity-g
+[invite link]: https://discord.gg/n4CA4NC
