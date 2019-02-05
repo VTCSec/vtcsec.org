@@ -2,10 +2,8 @@
 layout: page
 title: Resources
 permalink: /resources/
-edit_link: true
+edit_link: false
 ---
-
-<span class="notice">This page is under construction! But it is being worked on, if you have suggestions contact us!</span>
 
 Resources for learning about computer security and related fields.
 
