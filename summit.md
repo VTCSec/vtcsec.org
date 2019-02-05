@@ -34,7 +34,7 @@ It will run all day.  Food and drink will be provided. Hotel rooms will be provi
 
 ## What are the team rules?
 
-Teams will have a maximum of 5 members. Teams can register at the event, and do not need to all be from one school.
+Teams will have a maximum of 5 members. Teams can register at the event, and do not need to all be from one school. There is a maximum of 2 graduate students per team.
 
 ## How do I sign up?
 
