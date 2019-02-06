@@ -9,7 +9,7 @@ permalink: /meetings/
   {% include meeting-data.html %}
   <li date="{{ date_iso_8601 }}">
     <h2>
-      <a class="post-link" href="{{ meeting.url }}">{{ meeting.what }}</a>
+      <a href="{{ meeting.url }}">{{ meeting.what }}</a>
     </h2>
     <span class="post-meta">{% include meeting-fmt.html %}</span>
   </li>
