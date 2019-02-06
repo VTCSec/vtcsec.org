@@ -32,7 +32,7 @@ In addition, this year's theme is <b>THUNDERDOME</b>. This means that there will
 
 It will be hosted at Virginia Tech on **March 23rd** at Room 320 in New Classroom Building. Note - Parking will be free on the weekend, there are lots near by at the Perry Street Lot and Garage.
 
-It will run all day.  Food and drink will be provided. Hotel rooms will be provided to those that have to travel too far to leave in the morning, please request these directly by email as soon as possible.
+It will run all day.  Food and drink will be provided. Hotel rooms will be provided to those that have to travel too far to leave in the morning, please request these when you register.
 
 ## What are the team rules?
 
