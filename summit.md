@@ -11,6 +11,8 @@ The Summit is a CTF competition put on by the Cyber Security Club at Virginia Te
 Teams and students will be invited to participate.  Any student is allowed to join.  If your school or club
 did not receive an invitation, please email <a href="mailto:officers@vtcsec.org">officers@vtcsec.org</a>.
 
+## What Challenges are there?
+
 VTCSec has designed new challenges for people to solve in person.  We have created challenges related
 to real issues in security and have used our experience competing in past CTF's.  We will be hosting challenges
 in the following areas:
@@ -24,7 +26,7 @@ in the following areas:
 * Cryptography
 * Operational Security
 
-Diverse skill sets on teams will be helpful.  Challenges are designed to be difficult to be solved by one person alone.
+In addition, this year's theme is <b>THUNDERDOME</b>. This means that there will be multiple challenges where all teams will have to continually attack the central service to steal control from each other.
 
 ## When and where is it?
 
