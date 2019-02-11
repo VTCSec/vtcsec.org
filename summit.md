@@ -8,8 +8,13 @@ title: Summit
 ## What is it?
 
 The Summit is a CTF competition put on by the Cyber Security Club at Virginia Tech and a networking opportunity for students interested in security.
-Teams and students will be invited to participate.  Any student is allowed to join.  If your school or club
-did not receive an invitation, please email <a href="mailto:officers@vtcsec.org">officers@vtcsec.org</a>.
+Teams and Students from ourside of the Blacksburg and Roanoke area will be provided with free hotel rooms the night before. Indicate this in the Sign Up Form.
+
+## When and where is it?
+
+It will be hosted at Virginia Tech on **March 23rd** at Room 320 in New Classroom Building. Note - Parking will be free on the weekend, there are lots near by at the Perry Street Lot and Garage.
+
+The competition will run from 9am to 5pm, but doors will be open to competitors starting at 8:15 to set up and eat breakfast. Food and drink will be provided for both Breakfast and Lunch. Hotel rooms will be provided to those that have to travel too far to leave in the morning, please request these when you register.
 
 ## What Challenges are there?
 
@@ -27,12 +32,6 @@ in the following areas:
 * Operational Security
 
 In addition, this year's theme is <b>THUNDERDOME</b>. This means that there will be multiple challenges where all teams will have to continually attack the central service to steal control from each other.
-
-## When and where is it?
-
-It will be hosted at Virginia Tech on **March 23rd** at Room 320 in New Classroom Building. Note - Parking will be free on the weekend, there are lots near by at the Perry Street Lot and Garage.
-
-It will run all day.  Food and drink will be provided. Hotel rooms will be provided to those that have to travel too far to leave in the morning, please request these when you register.
 
 ## What are the team rules?
 
