@@ -8,7 +8,7 @@ title: Summit
 ## What is it?
 
 The Summit is a CTF competition put on by the Cyber Security Club at Virginia Tech and a networking opportunity for students interested in security.
-Teams and Students from ourside of the Blacksburg and Roanoke area will be provided with free hotel rooms the night before. Indicate this in the Sign Up Form.
+Teams and Students from ourside of the Blacksburg and Roanoke area will be provided with free hotel rooms the night before. These will be offered to students of universities outside of the New River Valley who sign up before March 4th.
 
 ## When and where is it?
 
