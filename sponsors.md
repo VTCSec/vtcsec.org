@@ -22,7 +22,7 @@ Eastman Chemical Company</p>
 <p align="center">
 <a href="https://www.boozallen.com/" target="_blank"><img src="http://vtcsec.org/images/BAHLogo.png" alt="Booze Allen Hamilton Logo" align="center" width="340"></a>
 <br>
-Booze Allen Hamilton</p>
+Booz Allen Hamilton</p>
 <hr>
 <h2 align="center"><u>Bronze</u></h2>
 <hr>
