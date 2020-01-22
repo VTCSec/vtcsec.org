@@ -12,7 +12,7 @@ Teams and Students from ourside of the Blacksburg and Roanoke area will be provi
 
 ## When and where is it?
 
-It will be hosted at Virginia Tech on **March 23rd** at Room 320 in New Classroom Building. Note - Parking will be free on the weekend, there are lots near by at the Perry Street Lot and Garage.
+The date is currently TBD. Expect a weekend some time in mid or late March. 
 
 The competition will run from 9am to 5pm, but doors will be open to competitors starting at 8:15 to set up and eat breakfast. Food and drink will be provided for both Breakfast and Lunch. Hotel rooms will be provided to those that have to travel too far to leave in the morning, please request these when you register.
 
@@ -31,7 +31,6 @@ in the following areas:
 * Cryptography
 * Operational Security
 
-In addition, this year's theme is <b>THUNDERDOME</b>. This means that there will be multiple challenges where all teams will have to continually attack the central service to steal control from each other.
 
 ## What are the team rules?
 
