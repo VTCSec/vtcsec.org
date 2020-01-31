@@ -3,16 +3,17 @@ layout: page
 title: Summit
 ---
 
-## Sign up <a href="https://goo.gl/forms/5AM9KMOAKoDOsVXF2">here</a>
+## Sign up <a href="https://forms.gle/My5QAJYoTzEd1TuQ9">here</a>
 
 ## What is it?
 
 The Summit is a CTF competition put on by the Cyber Security Club at Virginia Tech and a networking opportunity for students interested in security.
-Teams and Students from ourside of the Blacksburg and Roanoke area will be provided with free hotel rooms the night before. These will be offered to students of universities outside of the New River Valley who sign up before March 4th.
+
+Teams and Students from ourside of the Blacksburg and Roanoke area will be provided with free hotel rooms the night before (Fri, March 27). These will be offered to students of universities outside of the New River Valley who sign up before March 7th, when those signed up will be contacted by email to finalize room arrangements.
 
 ## When and where is it?
 
-The date is currently TBD. Expect a weekend some time in mid or late March. 
+Summit will take place on Saturday, March 28th on VT's campus. The exact location is TBD.
 
 The competition will run from 9am to 5pm, but doors will be open to competitors starting at 8:15 to set up and eat breakfast. Food and drink will be provided for both Breakfast and Lunch. Hotel rooms will be provided to those that have to travel too far to leave in the morning, please request these when you register.
 
