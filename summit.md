@@ -39,7 +39,7 @@ Teams will have a maximum of 5 members. Teams can register at the event, and do 
 
 ## How do I sign up?
 
-Go to the signup page <a href="https://goo.gl/forms/5AM9KMOAKoDOsVXF2">here</a>.
+Go to the signup page <a href="https://forms.gle/My5QAJYoTzEd1TuQ9">here</a>.
 
 ## How can I help? 
 Talk to VTCSEC officers in person at a meeting (or by email)! We are always glad to get help.  
