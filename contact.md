@@ -21,10 +21,11 @@ Please use [email][officers@] as your first method of contact at the address bel
 [Invite Link][invite link] - Must join the club on GobblerConnect first!
 
 ## IRC
-[#vtcsec][webchat] on [OFTC][oftc]
+[#vtcsec][webchat] on [OFTC][oftc] (Defunct as of 2020)
 
 [webchat]: https://webchat.oftc.net/?channels=vtcsec
 [oftc]: http://www.oftc.net/
 [officers@]: mailto:officers@vtcsec.org
 [google group]: https://groups.google.com/a/vt.edu/forum/#!forum/cybersecurity-g
-[invite link]: https://discord.gg/n4CA4NC
+[invite link]: https://discord.gg/EkB6F8B
+
