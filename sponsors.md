@@ -5,25 +5,15 @@ permalink: /sponsors/
 ---
 <h2 align="center"><u>Platinum</u></h2>
 <p align="center">
+<a href="https://www.triplepointsecurity.com/" target="_blank"><img src="http://www.vtcsec.org/images/TriplePointLogo.jpg" alt="Triple Point Security Logo" align="center" height="55" width="340"></a>
+<br>
 Virginia Tech IT Security Office and Labs<br>
 <a href="https://vt.edu/" target="_blank"><img src="http://www.vtcsec.org/images/VirginiaTechLogo.gif" alt="Virginia Tech Logo" align="center" height="200" width="240"></a>
-<br>
-<a href="https://www.triplepointsecurity.com/" target="_blank"><img src="http://www.vtcsec.org/images/TriplePointLogo.jpg" alt="Triple Point Security Logo" align="center" height="55" width="340"></a>
 <br>
 </p>
 <hr>
 <h2 align="center"><u>Gold</u></h2>
-<p align="center">
-<a href="http://www.eastman.com/Pages/Home.aspx" target="_blank"><img src="http://vtcsec.org/images/500px-Eastman_Chemical_Company_logo.svg.png" alt="Eastman Chemical Company Logo" align="center" width="340"></a>
-<br>
-Eastman Chemical Company</p>
-<hr>
-<h2 align="center"><u>Silver</u></h2><hr>
-<p align="center">
-<a href="https://www.boozallen.com/" target="_blank"><img src="http://vtcsec.org/images/BAHLogo.png" alt="Booze Allen Hamilton Logo" align="center" width="340"></a>
-<br>
-Booz Allen Hamilton</p>
-<hr>
+
 <h2 align="center"><u>Bronze</u></h2>
 <hr>
 <h2 align="center"><u>Donations</u></h2><hr>
