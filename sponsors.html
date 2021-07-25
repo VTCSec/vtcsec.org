@@ -54,14 +54,16 @@
                             </div>
                         </div>
                         <section class="shadow contact-clean" style="background: rgb(6,22,38);border-style: solid;border-color: rgb(25,46,68);">
-                            <form class="bg-light border rounded border-secondary shadow-lg" action="/vtcsec.org/assets/PHP Handler/ContactHandler.php" method="post" style="background: rgb(80,80,98);">
-                                <h2 class="text-center">Contact us</h2>
-                                <div class="form-group mb-3"><input class="form-control" type="text" name="name" placeholder="Name"></div>
-                                <div class="form-group mb-3"><input class="form-control" type="text" name="phone" placeholder="Phone" inputmode="tel"></div>
-                                <div class="form-group mb-3"><input class="form-control" type="email" name="email" placeholder="Email"></div>
-                                <div class="form-group mb-3"><textarea class="form-control" name="message" placeholder="Message" rows="14"></textarea></div>
-                                <div class="form-group mb-3"><button class="btn btn-primary" type="submit">send </button></div>
-                            </form>
+                            <form class="bg-light border rounded border-secondary shadow-lg" id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xvodbeqe" method="post">
+                                <fieldset id="fs-frm-inputs">
+                                    <h2 class="text-center">Contact us</h2>
+                                    <div class="form-group mb-3"><input type="text" class="form-control" name="name" id="full-name" placeholder="Name" required=""></div>
+                                    <div class="form-group mb-3"><input type="email" class="form-control" name="_replyto" id="email-address" placeholder="Email" required=""></div>
+                                    <div class="form-group mb-3"><textarea rows="5" class="form-control" name="message" id="message" placeholder="Message" required=""></textarea>
+                                    <div class="form-group mb-3"><input type="hidden"  name="_subject" id="email-subject" value="Contact Form Submission">
+                                </fieldset>
+                                <input type="submit" class="btn btn-primary" value="Submit">
+                              </form>
                         </section>
                     </section>
                 </div>
@@ -105,14 +107,14 @@
         </div>
     </footer>
     <nav class="navbar navbar-light navbar-expand-lg fixed-top bg-white clean-navbar bg-black" style="background: rgb(3,3,3);color: rgb(33, 37, 41);border-bottom-style: solid;border-bottom-color: rgb(25,46,68);">
-        <div class="container"><a class="navbar-brand logo" href="index.html" style="color: rgba(255,255,255,0.9);">CyberVT</a><button data-bs-toggle="collapse" class="navbar-toggler" data-bs-target="#navcol-1"><span class="visually-hidden">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
+        <div class="container"><a class="navbar-brand logo" href="index.html" style="color: rgba(255,255,255,0.9);">CyberVT</a><button data-bs-toggle="collapse" class="navbar-toggler navbar-dark" data-bs-target="#navcol-1"><span class="visually-hidden">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
             <div class="collapse navbar-collapse" id="navcol-1">
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item"><a class="nav-link" href="membership.html" style="color: rgba(255,255,255,0.9);">Membership</a></li>
                     <li class="nav-item"><a class="nav-link active" href="sponsors.html" style="color: rgba(255,255,255,0.9);">Sponsors</a></li>
                     <li class="nav-item"><a class="nav-link" href="summit.html" style="color: rgba(255,255,255,0.9);">Summit</a></li>
                     <li class="nav-item dropdown"><a class="dropdown-toggle nav-link" aria-expanded="false" data-bs-toggle="dropdown" href="#" style="color: rgba(255,255,255,0.9);">Resources</a>
-                        <div class="dropdown-menu"><a class="dropdown-item" href="roles.html">Roles</a><a class="dropdown-item" href="blog.html">Blog</a><a class="dropdown-item" href="officers.html">Leadership</a><a class="dropdown-item" href="resources.html">Learn</a></div>
+                        <div class="dropdown-menu"><a class="dropdown-item" href="/vtcsec.org/assets/ClubStructure/CyberVT_Baseline.pdf">Club Structure</a> <a class="dropdown-item" href="roles.html">Roles</a><a class="dropdown-item" href="blog.html">Blog</a><a class="dropdown-item" href="officers.html">Leadership</a><a class="dropdown-item" href="resources.html">Learn</a></div>
                     </li>
                     <li class="nav-item"><a class="nav-link" href="mailto:officers@vtcsec.org" style="color: rgba(255,255,255,0.9);">Contact Us</a></li>
                 </ul>
